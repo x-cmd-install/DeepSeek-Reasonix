@@ -1,0 +1,68 @@
+about:
+  description: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+  license: MIT
+  homepage: http://reasonix.io/
+  head: d9cd713
+  archived: false
+  latestVersion: desktop-v1.36.0
+  collectedAt: 2026-09-03T04:11:20Z
+timeline:
+  created: 2026-04-21
+  lastCommit: 2026-09-02
+  lastRelease: 2026-09-02
+popularity:
+  star: 35356
+  watcher: 103
+  fork: 2364
+  release: 224
+  contributor: 181
+  pullRequest: 1383
+  issue: 4415
+language:
+  Go: 27550591
+  TypeScript: 8820823
+  CSS: 1237913
+  JavaScript: 600774
+  Python: 437311
+  Shell: 266815
+  Astro: 204710
+  HTML: 138406
+  PowerShell: 39944
+  Objective-C: 29667
+  C: 21440
+  NSIS: 20487
+  Makefile: 3179
+totalLine: 39372060
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 82
+    mergedPR: 570
+    openPR: 287
+    closedIssue: 408
+    openIssue: 756
+    commit: 1203
+  last90d:
+    since: 2026-06-05
+    release: 100
+    mergedPR: 1930
+    openPR: 443
+    closedIssue: 1916
+    openIssue: 1235
+    commit: 4021
+  last180d:
+    since: 2026-03-07
+    release: 100
+    mergedPR: 3502
+    openPR: 447
+    closedIssue: 3175
+    openIssue: 1240
+    commit: 4635
+  last360d:
+    since: 2025-09-08
+    release: 100
+    mergedPR: 3502
+    openPR: 447
+    closedIssue: 3175
+    openIssue: 1240
+    commit: 4635

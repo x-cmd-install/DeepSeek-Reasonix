@@ -2,12 +2,12 @@ about:
   description: "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
   license: MIT
   homepage: http://reasonix.io/
-  head: 88b7649
+  head: f098d0f
   archived: false
   latestVersion: "v1.38.3"
   latestRelease: "v1.38.3"
   latestPrerelease: "studio-v2.13.0"
-  collectedAt: 2026-09-09T05:36:41Z
+  collectedAt: 2026-09-09T19:52:34Z
 timeline:
   created: 2026-04-21
   lastCommit: 2026-09-09
@@ -15,148 +15,138 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2026-09-06
 popularity:
-  star: 35462
+  star: 35458
   watcher: 104
-  fork: 2382
+  fork: 2381
   release: 236
   contributor: 182
-  pullRequest: 5014
-  issue: 4518
+  pullRequest: 5046
+  issue: 4536
 language:
-  Go: 29321885
-  TypeScript: 9484720
-  CSS: 1294225
-  JavaScript: 634426
+  Go: 29608849
+  TypeScript: 9887167
+  CSS: 1293053
+  JavaScript: 697119
   Python: 437311
-  Shell: 266815
+  Shell: 267376
   Astro: 204710
-  HTML: 141446
-  PowerShell: 42820
-  Objective-C: 29810
-  C: 26012
-  NSIS: 20487
-  Makefile: 3179
-totalBytes: 41907846
+  HTML: 141093
+  NSIS: 23866
+  PowerShell: 22460
+  Objective-C: 8917
+  C: 4097
+  Makefile: 2914
+totalBytes: 42598932
 recent:
   last30d:
     since: 2026-08-10
     release: 76
-    mergedPR: 434
-    openPR: 197
+    mergedPR: 460
+    openPR: 192
     closedIssue: 330
-    openIssue: 622
-    commit: 908
+    openIssue: 640
+    commit: 993
   last60d:
     since: 2026-07-11
     release: 100
-    mergedPR: 1081
-    openPR: 359
+    mergedPR: 1108
+    openPR: 353
     closedIssue: 725
-    openIssue: 1087
-    commit: 2412
+    openIssue: 1105
+    commit: 2497
   last90d:
     since: 2026-06-11
     release: 100
-    mergedPR: 1744
-    openPR: 446
+    mergedPR: 1771
+    openPR: 440
     closedIssue: 1599
-    openIssue: 1301
-    commit: 3978
+    openIssue: 1319
+    commit: 4063
   last180d:
     since: 2026-03-13
     release: 100
-    mergedPR: 3595
-    openPR: 456
+    mergedPR: 3622
+    openPR: 450
     closedIssue: 3203
-    openIssue: 1315
-    commit: 4985
+    openIssue: 1333
+    commit: 5070
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 3595
-    openPR: 456
+    mergedPR: 3622
+    openPR: 450
     closedIssue: 3203
-    openIssue: 1315
-    commit: 4985
+    openIssue: 1333
+    commit: 5070
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 3595
-    openPR: 456
+    mergedPR: 3622
+    openPR: 450
     closedIssue: 3203
-    openIssue: 1315
-    commit: 6730
+    openIssue: 1333
+    commit: 6848
 total:
   release: 236
-  mergedPR: 3595
-  openPR: 456
+  mergedPR: 3622
+  openPR: 450
   closedIssue: 3203
-  openIssue: 1315
-  commit: 6730
+  openIssue: 1333
+  commit: 6848
 ---
 path: /home/runner/.x-repo/github.com/esengine/DeepSeek-Reasonix
-collectedAt: 2026-09-09T05:37:07Z
+collectedAt: 2026-09-09T19:53:08Z
 loc:
   Go:
-    code: 778207
-    comments: 56227
-    blanks: 67296
-    files: 4076
+    code: 759239
+    comments: 54465
+    blanks: 61801
+    files: 3736
   TypeScript:
-    code: 97541
-    comments: 5056
-    blanks: 7657
-    files: 736
+    code: 108161
+    comments: 5228
+    blanks: 8769
+    files: 818
   Tsx:
-    code: 95108
-    comments: 2737
-    blanks: 6446
-    files: 405
-  Css:
-    code: 42837
-    comments: 944
-    blanks: 3231
-    files: 23
+    code: 94826
+    comments: 2727
+    blanks: 6423
+    files: 404
   Json:
-    code: 38650
+    code: 89077
     comments: 0
     blanks: 2
-    files: 52
+    files: 71
+  Css:
+    code: 42787
+    comments: 934
+    blanks: 3269
+    files: 24
+  JavaScript:
+    code: 13200
+    comments: 938
+    blanks: 1008
+    files: 113
   Python:
     code: 13180
     comments: 107
     blanks: 2147
     files: 419
-  JavaScript:
-    code: 12085
-    comments: 880
-    blanks: 891
-    files: 98
   Yaml:
-    code: 6538
-    comments: 16
-    blanks: 1807
+    code: 6802
+    comments: 20
+    blanks: 1880
     files: 6
   Sh:
-    code: 5421
-    comments: 531
-    blanks: 455
+    code: 5432
+    comments: 566
+    blanks: 456
     files: 148
   Svg:
-    code: 1006
-    comments: 22
-    blanks: 55
-    files: 57
-  PowerShell:
     code: 975
-    comments: 20
-    blanks: 94
-    files: 6
-  ObjectiveC:
-    code: 936
-    comments: 78
-    blanks: 124
-    files: 4
+    comments: 22
+    blanks: 54
+    files: 56
   Sql:
     code: 810
     comments: 132
@@ -167,36 +157,46 @@ loc:
     comments: 269
     blanks: 43
     files: 120
-  C:
-    code: 630
-    comments: 9
-    blanks: 57
-    files: 3
+  ObjectiveC:
+    code: 589
+    comments: 35
+    blanks: 95
+    files: 2
   Html:
-    code: 573
-    comments: 13
+    code: 572
+    comments: 9
     blanks: 8
     files: 9
+  PowerShell:
+    code: 512
+    comments: 12
+    blanks: 62
+    files: 4
   Bash:
-    code: 291
-    comments: 14
-    blanks: 46
+    code: 261
+    comments: 15
+    blanks: 45
     files: 3
+  C:
+    code: 131
+    comments: 1
+    blanks: 12
+    files: 1
   Xml:
     code: 114
     comments: 28
     blanks: 0
     files: 2
   Makefile:
-    code: 64
+    code: 58
     comments: 7
-    blanks: 19
+    blanks: 18
     files: 1
   CHeader:
-    code: 35
+    code: 24
     comments: 0
-    blanks: 5
-    files: 2
+    blanks: 2
+    files: 1
   Rust:
     code: 6
     comments: 0
@@ -209,19 +209,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 21514
-    blanks: 5263
-    files: 298
+    comments: 23747
+    blanks: 5544
+    files: 304
   Text:
     code: 0
     comments: 109
     blanks: 22
     files: 18
 total:
-  code: 1099128
-  comments: 89000
-  blanks: 95927
-  files: 6508
+  code: 1140878
+  comments: 89658
+  blanks: 91919
+  files: 6282
 ---
 
 ---

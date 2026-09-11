@@ -2,131 +2,131 @@ about:
   description: "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running."
   license: MIT
   homepage: http://reasonix.io/
-  head: 32664af
+  head: 036c7c5
   archived: false
-  latestVersion: "v1.38.6"
-  latestRelease: "v1.38.6"
-  latestPrerelease: "studio-v2.13.0"
-  collectedAt: 2026-09-11T05:28:37Z
+  latestVersion: "v1.38.7"
+  latestRelease: "v1.38.7"
+  latestPrerelease: "studio-v2.14.1"
+  collectedAt: 2026-09-11T19:31:14Z
 timeline:
   created: 2026-04-21
   lastCommit: 2026-09-11
   lastVersion: 2026-09-11
   lastRelease: 2026-09-11
-  lastPrerelease: 2026-09-06
+  lastPrerelease: 2026-09-11
 popularity:
-  star: 35494
+  star: 35503
   watcher: 104
   fork: 2388
-  release: 240
-  contributor: 182
-  pullRequest: 5075
-  issue: 4580
+  release: 244
+  contributor: 184
+  pullRequest: 5089
+  issue: 4598
 language:
-  Go: 29927845
-  TypeScript: 10094904
-  CSS: 1261464
-  JavaScript: 744937
+  Go: 30181053
+  TypeScript: 10327010
+  CSS: 1264100
+  JavaScript: 776952
   Python: 437311
-  Shell: 268207
+  Shell: 268381
   Astro: 204710
-  HTML: 141318
-  NSIS: 23866
-  PowerShell: 22460
+  HTML: 141598
+  PowerShell: 27288
+  NSIS: 25166
   Objective-C: 8917
   C: 4097
   Makefile: 2914
-totalBytes: 43142950
+totalBytes: 43669497
 recent:
   last30d:
     since: 2026-08-12
-    release: 72
-    mergedPR: 423
-    openPR: 160
-    closedIssue: 207
-    openIssue: 519
-    commit: 1066
+    release: 76
+    mergedPR: 440
+    openPR: 155
+    closedIssue: 212
+    openIssue: 532
+    commit: 1083
   last60d:
     since: 2026-07-13
     release: 100
-    mergedPR: 1098
-    openPR: 351
-    closedIssue: 698
-    openIssue: 1130
-    commit: 2570
+    mergedPR: 1115
+    openPR: 346
+    closedIssue: 703
+    openIssue: 1143
+    commit: 2587
   last90d:
     since: 2026-06-13
     release: 100
-    mergedPR: 1710
-    openPR: 441
-    closedIssue: 1475
-    openIssue: 1355
-    commit: 4136
+    mergedPR: 1727
+    openPR: 436
+    closedIssue: 1480
+    openIssue: 1368
+    commit: 4153
   last180d:
     since: 2026-03-15
     release: 100
-    mergedPR: 3644
-    openPR: 453
-    closedIssue: 3206
-    openIssue: 1374
-    commit: 5143
+    mergedPR: 3661
+    openPR: 448
+    closedIssue: 3211
+    openIssue: 1387
+    commit: 5160
   last360d:
     since: 2025-09-16
     release: 100
-    mergedPR: 3644
-    openPR: 453
-    closedIssue: 3206
-    openIssue: 1374
-    commit: 5143
+    mergedPR: 3661
+    openPR: 448
+    closedIssue: 3211
+    openIssue: 1387
+    commit: 5160
   last720d:
     since: 2024-09-21
     release: 100
-    mergedPR: 3644
-    openPR: 453
-    closedIssue: 3206
-    openIssue: 1374
-    commit: 6934
+    mergedPR: 3661
+    openPR: 448
+    closedIssue: 3211
+    openIssue: 1387
+    commit: 6951
 total:
-  release: 240
-  mergedPR: 3644
-  openPR: 453
-  closedIssue: 3206
-  openIssue: 1374
-  commit: 6934
+  release: 244
+  mergedPR: 3661
+  openPR: 448
+  closedIssue: 3211
+  openIssue: 1387
+  commit: 6951
 ---
 path: /home/runner/.x-repo/github.com/esengine/DeepSeek-Reasonix
-collectedAt: 2026-09-11T05:29:13Z
+collectedAt: 2026-09-11T19:31:36Z
 loc:
   Go:
-    code: 766694
-    comments: 55049
-    blanks: 62427
-    files: 3813
+    code: 773456
+    comments: 55347
+    blanks: 62940
+    files: 3888
   TypeScript:
-    code: 110844
-    comments: 5603
-    blanks: 8976
-    files: 845
+    code: 114100
+    comments: 5731
+    blanks: 9173
+    files: 883
   Tsx:
-    code: 95640
-    comments: 2833
-    blanks: 6477
-    files: 417
+    code: 96204
+    comments: 2853
+    blanks: 6496
+    files: 419
   Json:
-    code: 90955
+    code: 92729
     comments: 0
     blanks: 2
     files: 71
   Css:
-    code: 41744
-    comments: 1079
-    blanks: 3191
+    code: 41821
+    comments: 1088
+    blanks: 3192
     files: 25
   JavaScript:
-    code: 13957
-    comments: 997
-    blanks: 1064
-    files: 124
+    code: 14452
+    comments: 1015
+    blanks: 1073
+    files: 130
   Python:
     code: 13180
     comments: 107
@@ -138,8 +138,8 @@ loc:
     blanks: 1880
     files: 6
   Sh:
-    code: 5434
-    comments: 568
+    code: 5435
+    comments: 570
     blanks: 456
     files: 148
   Svg:
@@ -154,24 +154,24 @@ loc:
     files: 20
   Toml:
     code: 677
-    comments: 269
-    blanks: 43
+    comments: 276
+    blanks: 44
     files: 120
   ObjectiveC:
     code: 589
     comments: 35
     blanks: 95
     files: 2
+  PowerShell:
+    code: 589
+    comments: 12
+    blanks: 65
+    files: 5
   Html:
-    code: 573
+    code: 575
     comments: 9
     blanks: 8
-    files: 10
-  PowerShell:
-    code: 512
-    comments: 12
-    blanks: 62
-    files: 4
+    files: 11
   Bash:
     code: 261
     comments: 15
@@ -209,20 +209,20 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 24259
-    blanks: 5655
-    files: 308
+    comments: 24731
+    blanks: 5788
+    files: 314
   Text:
     code: 0
     comments: 109
     blanks: 22
     files: 18
 total:
-  code: 1153428
-  comments: 91441
-  blanks: 92895
-  files: 6416
+  code: 1166436
+  comments: 92395
+  blanks: 93771
+  files: 6545
 ---
 
 ---
-{"id":386720312,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOSIatD84XDOI4","tag_name":"desktop-v1.38.6","target_commitish":"main-v2","name":"Reasonix Desktop v1.38.6","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-10T23:56:13Z","updated_at":"2026-09-11T01:05:58Z","published_at":"2026-09-11T01:04:38Z","assets":[{"id":556187255,"node_id":"RA_kwDOSIatD84hJr53","name":"latest.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":3771,"digest":"sha256:0f5dca406a7b1faf19aeb394ece6796707c8f542270e810fff3f9590c19e6b83","download_count":9025,"created_at":"2026-09-11T01:05:39Z","updated_at":"2026-09-11T01:05:39Z"},{"id":556186199,"node_id":"RA_kwDOSIatD84hJrpX","name":"Reasonix-darwin-amd64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":362440788,"digest":"sha256:2c9b062b6d7d67be9b9bd2393cd511b5e9e4649f953426c366150b22a1341874","download_count":18,"created_at":"2026-09-11T01:04:47Z","updated_at":"2026-09-11T01:04:57Z"},{"id":556187216,"node_id":"RA_kwDOSIatD84hJr5Q","name":"Reasonix-darwin-amd64.zip.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":282,"digest":"sha256:f73e0fcd4e30c80e5ebd2e8e18f04ad678c1238d118530327058a2d56d337a37","download_count":7,"created_at":"2026-09-11T01:05:36Z","updated_at":"2026-09-11T01:05:36Z"},{"id":556186852,"node_id":"RA_kwDOSIatD84hJrzk","name":"Reasonix-darwin-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":362440788,"digest":"sha256:2c9b062b6d7d67be9b9bd2393cd511b5e9e4649f953426c366150b22a1341874","download_count":28,"created_at":"2026-09-11T01:05:19Z","updated_at":"2026-09-11T01:05:28Z"},{"id":556186055,"node_id":"RA_kwDOSIatD84hJrnH","name":"Reasonix-darwin-arm64.zip.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":282,"digest":"sha256:6db04e014df0accf27c8824d4c7b46da9d67bcd37fb2f2c2b56884a9b2a8cc91","download_count":9,"created_at":"2026-09-11T01:04:39Z","updated_at":"2026-09-11T01:04:39Z"},{"id":556187361,"node_id":"RA_kwDOSIatD84hJr7h","name":"Reasonix-darwin-universal.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-apple-diskimage","state":"uploaded","size":360601816,"digest":"sha256:0abfd0677230f0fe257419b55ea2a7a0661c538f38cc8e742564f222e1345c15","download_count":26,"created_at":"2026-09-11T01:05:40Z","updated_at":"2026-09-11T01:05:50Z"},{"id":556187816,"node_id":"RA_kwDOSIatD84hJsCo","name":"Reasonix-darwin-universal.dmg.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":286,"digest":"sha256:da3960ee2000dfeab21ba42a86a1e9e080bf6270de0469b99b988d56cb76ce7b","download_count":7,"created_at":"2026-09-11T01:05:57Z","updated_at":"2026-09-11T01:05:57Z"},{"id":556186741,"node_id":"RA_kwDOSIatD84hJrx1","name":"Reasonix-linux-amd64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-debian-package","state":"uploaded","size":177781806,"digest":"sha256:ddb93041b4128a998b35ae3718be46cf07f6ede857a10a624503769449f305ef","download_count":34,"created_at":"2026-09-11T01:05:13Z","updated_at":"2026-09-11T01:05:18Z"},{"id":556187697,"node_id":"RA_kwDOSIatD84hJsAx","name":"Reasonix-linux-amd64.deb.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":281,"digest":"sha256:f2aecefb7cb57b4863f33743b02384e480753e265e2bdc8a1530d9b226d642a5","download_count":8,"created_at":"2026-09-11T01:05:50Z","updated_at":"2026-09-11T01:05:50Z"},{"id":556187710,"node_id":"RA_kwDOSIatD84hJsA-","name":"Reasonix-linux-amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":174695290,"digest":"sha256:35f5a752d8fe946f8b63093b45a74ff0111e972710519a6aee8bafd425296eda","download_count":14,"created_at":"2026-09-11T01:05:51Z","updated_at":"2026-09-11T01:05:56Z"},{"id":556187241,"node_id":"RA_kwDOSIatD84hJr5p","name":"Reasonix-linux-amd64.tar.gz.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":284,"digest":"sha256:1e9953a82e44c00699fe3accb1579e722922ae34fbc70235d91dbf42ac109e54","download_count":5,"created_at":"2026-09-11T01:05:38Z","updated_at":"2026-09-11T01:05:38Z"},{"id":556186599,"node_id":"RA_kwDOSIatD84hJrvn","name":"Reasonix-windows-amd64-installer.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":217205480,"digest":"sha256:399feae76b17e9835c8d70c9fd2ccbf78c249f55b2529e979fb388e4c13b9ff9","download_count":349,"created_at":"2026-09-11T01:05:05Z","updated_at":"2026-09-11T01:05:11Z"},{"id":556187233,"node_id":"RA_kwDOSIatD84hJr5h","name":"Reasonix-windows-amd64-installer.exe.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":293,"digest":"sha256:acec4817883f8b126154685c952a18a3b2ce2a38912f3b3771b8356043a5b5d4","download_count":14,"created_at":"2026-09-11T01:05:37Z","updated_at":"2026-09-11T01:05:37Z"},{"id":556186068,"node_id":"RA_kwDOSIatD84hJrnU","name":"Reasonix-windows-amd64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":237573433,"digest":"sha256:26cb61ffe0aead2720b2baac1df5f05ad2f60ae76ad5a24eeed28b55c441026d","download_count":71,"created_at":"2026-09-11T01:04:40Z","updated_at":"2026-09-11T01:04:46Z"},{"id":556186730,"node_id":"RA_kwDOSIatD84hJrxq","name":"Reasonix-windows-amd64.zip.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":283,"digest":"sha256:e124046be15d0497f962d2c69ee86c85710cdb70b7f8f0c32c472ebbb14562ee","download_count":6,"created_at":"2026-09-11T01:05:12Z","updated_at":"2026-09-11T01:05:12Z"},{"id":556187072,"node_id":"RA_kwDOSIatD84hJr3A","name":"Reasonix-windows-arm64-installer.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":210863968,"digest":"sha256:e0ca22adad8f420aecfc93cb3f8f42d91e176a1ef60703d3533470960986eb14","download_count":30,"created_at":"2026-09-11T01:05:29Z","updated_at":"2026-09-11T01:05:36Z"},{"id":556187338,"node_id":"RA_kwDOSIatD84hJr7K","name":"Reasonix-windows-arm64-installer.exe.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":293,"digest":"sha256:e2c3b93dc65e88f65e891804aa07827df90f46c421deb121a9329837106b04a8","download_count":6,"created_at":"2026-09-11T01:05:39Z","updated_at":"2026-09-11T01:05:40Z"},{"id":556186451,"node_id":"RA_kwDOSIatD84hJrtT","name":"Reasonix-windows-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":229242446,"digest":"sha256:4d8d2d558b9894abad638771a43401c4b33703ded6aa393d2ccd4f70e738984c","download_count":8,"created_at":"2026-09-11T01:04:57Z","updated_at":"2026-09-11T01:05:05Z"},{"id":556187879,"node_id":"RA_kwDOSIatD84hJsDn","name":"Reasonix-windows-arm64.zip.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":283,"digest":"sha256:68f4f38a44b49814be66b77d816be9aa5b2ff7238d8a4be4648dfff4552312a6","download_count":5,"created_at":"2026-09-11T01:05:58Z","updated_at":"2026-09-11T01:05:58Z"}],"body":"> \u4fee\u590d\u4e86\u5bfc\u81f4\u5b98\u65b9\u684c\u9762\u5b89\u88c5\u5305\u65e0\u6cd5\u542f\u52a8\u7684\u6784\u5efa\u4e0d\u5339\u914d\u95ee\u9898\u3002\n\n**\u53d1\u5e03\u6e20\u9053\uff1a\u7a33\u5b9a\u7248 \u00b7 v1.38.6**\n\n[English \u2192](https://reasonix.io/changelog/v1.38.6/?lang=en) \u00b7 [\u7f51\u9875\u7248\u5b8c\u6574\u66f4\u65b0\u65e5\u5fd7 \u2192](https://reasonix.io/changelog/v1.38.6/)\n\n## \u6982\u89c8\n\n**Reasonix v1.38.6 \u2014 \u4fee\u590d\u684c\u9762\u7aef\u65e0\u6cd5\u542f\u52a8**\n\n\u4fee\u590d\u4e86\u5bfc\u81f4\u5b98\u65b9\u684c\u9762\u5b89\u88c5\u5305\u65e0\u6cd5\u542f\u52a8\u7684\u6784\u5efa\u4e0d\u5339\u914d\u95ee\u9898\u3002\n\n\u53d1\u5e03\u65e5\u671f\uff1a2026-09-11\n\n**Desktop 4 \u00b7 CLI 1**\n\n## \u684c\u9762\u7aef\u66f4\u65b0\n\n### \u91cd\u70b9\u5185\u5bb9\n\n- **[Desktop]** **\u5b98\u65b9\u684c\u9762\u5b89\u88c5\u5305\u53ef\u6b63\u5e38\u542f\u52a8** \u2014 \u4fee\u590d v1.38.5 \u5728\u5168\u65b0\u5b89\u88c5\u6216\u5347\u7ea7\u540e\u51fa\u73b0 build_mismatch\u3001\u65e0\u6cd5\u6253\u5f00\u7684\u95ee\u9898\u3002\u684c\u9762\u58f3\u4e0e\u5185\u7f6e\u670d\u52a1\u73b0\u5728\u4f7f\u7528\u4e00\u81f4\u7684\u53d1\u5e03\u7248\u672c\u4fe1\u606f\u3002 ([#10089](https://github.com/esengine/DeepSeek-Reasonix/pull/10089))\n\n### \u4fee\u590d\n\n- **[Desktop]** **\u53d1\u5e03\u524d\u9a8c\u8bc1\u6b63\u5f0f\u5305\u542f\u52a8** \u2014 Windows\u3001macOS \u548c Linux \u53d1\u5e03\u68c0\u67e5\u73b0\u5728\u4ee5\u6b63\u5f0f\u6a21\u5f0f\u542f\u52a8\u6253\u5305\u5e94\u7528\uff0c\u8981\u6c42\u670d\u52a1\u63e1\u624b\u3001\u754c\u9762\u5230\u670d\u52a1\u7684\u5b9e\u9645\u8c03\u7528\u53ca\u6b63\u5e38\u9000\u51fa\u5168\u90e8\u6210\u529f\u3002\u6784\u5efa\u4fe1\u606f\u7f3a\u5931\u6216\u65e0\u6548\u65f6\u4ecd\u4f1a\u62a5\u9519\u3002 ([#10089](https://github.com/esengine/DeepSeek-Reasonix/pull/10089))\n\n## CLI \u7aef\u66f4\u65b0\n\n\u6b64\u677f\u5757\u6ca1\u6709\u529f\u80fd\u6216\u4fee\u590d\u6761\u76ee\uff1b\u76f8\u5173\u8bf4\u660e\u8bf7\u67e5\u770b\u4e0b\u65b9\u5347\u7ea7\u63d0\u9192\u548c\u98ce\u9669\u63d0\u793a\u3002\n\n## \u5347\u7ea7\u63d0\u9192\n\n- **[Desktop]** **\u5b89\u88c5\u5b8c\u6574\u5305\u6062\u590d\u542f\u52a8** \u2014 \u5982\u679c v1.38.5 \u65e0\u6cd5\u6253\u5f00\uff0c\u8bf7\u4e0b\u8f7d\u5e76\u5b89\u88c5 v1.38.6 \u5b8c\u6574\u5305\uff0c\u65e0\u9700\u6e05\u7406\u914d\u7f6e\u6216\u4f1a\u8bdd\u6570\u636e\u3002\u4ece v1.38.3 \u6216\u66f4\u65e9 Wails \u7248\u672c\u9996\u6b21\u5347\u7ea7\u5230 Electron \u65f6\uff0c\u4e5f\u9700\u8981\u624b\u52a8\u5b89\u88c5\u5b8c\u6574\u5305\uff1b\u65e7\u7248\u66f4\u65b0\u5668\u65e0\u6cd5\u5b89\u88c5\u65b0\u7684\u76ee\u5f55\u7ed3\u6784\u3002 ([#10089](https://github.com/esengine/DeepSeek-Reasonix/pull/10089))\n\n## \u98ce\u9669\u63d0\u793a\n\n- **[Desktop \u00b7 CLI]** **OpenCode Go Responses \u641c\u7d22\u9650\u5236\u4ecd\u7136\u5b58\u5728** \u2014 \u672c\u6b21\u542f\u52a8\u4fee\u590d\u672a\u6539\u53d8\u6b64\u524d\u5df2\u62a5\u544a\u7684 OpenCode Go Responses \u539f\u751f\u641c\u7d22\u9650\u5236\u3002\u9700\u8981\u8054\u7f51\u641c\u7d22\u65f6\uff0c\u8bf7\u4f7f\u7528 v1.38.5 \u5df2\u9a8c\u8bc1\u7684 Anthropic \u641c\u7d22\u8def\u5f84\u3002 ([#10015](https://github.com/esengine/DeepSeek-Reasonix/pull/10015), [#10081](https://github.com/esengine/DeepSeek-Reasonix/pull/10081))\n\n## \u81f4\u8c22\n\n\u611f\u8c22\u672c\u7248\u672c\u7684\u8d21\u732e\u8005\uff1a[@SivanCola](https://github.com/SivanCola)\n\n## \u4e0b\u8f7d\u4e0e\u5b89\u88c5\n\n- [\u5b98\u7f51\u6309\u5e73\u53f0\u4e0b\u8f7d](https://reasonix.io/?download=desktop&channel=stable#start)\n- [\u67e5\u770b\u5b8c\u6574\u5dee\u5f02](https://github.com/esengine/DeepSeek-Reasonix/compare/desktop-v1.38.5...desktop-v1.38.6)\n"}
+{"id":387267477,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOSIatD84XFTuV","tag_name":"desktop-v1.38.7","target_commitish":"main-v2","name":"Reasonix Desktop v1.38.7","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-11T16:27:00Z","updated_at":"2026-09-11T18:56:54Z","published_at":"2026-09-11T18:55:35Z","assets":[{"id":557820829,"node_id":"RA_kwDOSIatD84hP6ud","name":"latest.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":3771,"digest":"sha256:9ca0801316cbb538230601210002dacb24ed8367bf7872ebd2cf154dc68139a6","download_count":689,"created_at":"2026-09-11T18:56:33Z","updated_at":"2026-09-11T18:56:33Z"},{"id":557819581,"node_id":"RA_kwDOSIatD84hP6a9","name":"Reasonix-darwin-amd64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":363117782,"digest":"sha256:878cd9f64ff25bf5e57684bbd91e25fcd66e55ed99e2e3466a75dce2b99302a6","download_count":4,"created_at":"2026-09-11T18:55:44Z","updated_at":"2026-09-11T18:55:53Z"},{"id":557820755,"node_id":"RA_kwDOSIatD84hP6tT","name":"Reasonix-darwin-amd64.zip.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":282,"digest":"sha256:662895311565932926160b18a1a41814d941cce1acdd280ae80f40410d6d362b","download_count":5,"created_at":"2026-09-11T18:56:31Z","updated_at":"2026-09-11T18:56:31Z"},{"id":557820322,"node_id":"RA_kwDOSIatD84hP6mi","name":"Reasonix-darwin-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":363117782,"digest":"sha256:878cd9f64ff25bf5e57684bbd91e25fcd66e55ed99e2e3466a75dce2b99302a6","download_count":4,"created_at":"2026-09-11T18:56:14Z","updated_at":"2026-09-11T18:56:24Z"},{"id":557819382,"node_id":"RA_kwDOSIatD84hP6X2","name":"Reasonix-darwin-arm64.zip.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":282,"digest":"sha256:cc1fceec61718bad81862c5aebf8c7328b727a6c90344e1b40cee92a6cbbcdd7","download_count":5,"created_at":"2026-09-11T18:55:36Z","updated_at":"2026-09-11T18:55:37Z"},{"id":557820878,"node_id":"RA_kwDOSIatD84hP6vO","name":"Reasonix-darwin-universal.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-apple-diskimage","state":"uploaded","size":361261506,"digest":"sha256:83dab447a2471815b0799ec7c6dec0e324a95a733e6b4490552cb670db81c01d","download_count":5,"created_at":"2026-09-11T18:56:34Z","updated_at":"2026-09-11T18:56:47Z"},{"id":557821340,"node_id":"RA_kwDOSIatD84hP62c","name":"Reasonix-darwin-universal.dmg.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":286,"digest":"sha256:f92bff033c275713162d1ed70f278f379215205ddf119f10c2d841055160ce29","download_count":5,"created_at":"2026-09-11T18:56:53Z","updated_at":"2026-09-11T18:56:53Z"},{"id":557820137,"node_id":"RA_kwDOSIatD84hP6jp","name":"Reasonix-linux-amd64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-debian-package","state":"uploaded","size":178044912,"digest":"sha256:54bade3511d08a50a3d88d9ccaf3bcb26c81dc3a5bef2c1b68075793d491a753","download_count":4,"created_at":"2026-09-11T18:56:08Z","updated_at":"2026-09-11T18:56:13Z"},{"id":557821229,"node_id":"RA_kwDOSIatD84hP60t","name":"Reasonix-linux-amd64.deb.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":281,"digest":"sha256:1c5b7e2066c72926e49d46a3c0446e371792bb36c063e74a830bbb979b8ae159","download_count":5,"created_at":"2026-09-11T18:56:47Z","updated_at":"2026-09-11T18:56:48Z"},{"id":557821254,"node_id":"RA_kwDOSIatD84hP61G","name":"Reasonix-linux-amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":174971544,"digest":"sha256:f61f8bd82dca8a67f884088717fb0fe48ed99ba778add5fbb9d1b3310a90c583","download_count":4,"created_at":"2026-09-11T18:56:48Z","updated_at":"2026-09-11T18:56:52Z"},{"id":557820786,"node_id":"RA_kwDOSIatD84hP6ty","name":"Reasonix-linux-amd64.tar.gz.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":284,"digest":"sha256:d9a7c2f87a7028c6302aa4667877e8ddc2582b8f4f6e39c33571135f92a7099a","download_count":4,"created_at":"2026-09-11T18:56:32Z","updated_at":"2026-09-11T18:56:32Z"},{"id":557820022,"node_id":"RA_kwDOSIatD84hP6h2","name":"Reasonix-windows-amd64-installer.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":219496624,"digest":"sha256:0e4c31af52fd6dc0e19728eb06c2736835e94b1cffeaadad10858d041d194c83","download_count":8,"created_at":"2026-09-11T18:56:02Z","updated_at":"2026-09-11T18:56:07Z"},{"id":557820763,"node_id":"RA_kwDOSIatD84hP6tb","name":"Reasonix-windows-amd64-installer.exe.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":293,"digest":"sha256:6d08b02ddc73b7656513a1722740876bc97cd31c7703e206d4d9733e51cc9320","download_count":4,"created_at":"2026-09-11T18:56:31Z","updated_at":"2026-09-11T18:56:32Z"},{"id":557819405,"node_id":"RA_kwDOSIatD84hP6YN","name":"Reasonix-windows-amd64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":241910882,"digest":"sha256:efaba72331e21a69ad8462215b7f9ccf515026c3daeb0c7e8a9f52f1042161d7","download_count":3,"created_at":"2026-09-11T18:55:37Z","updated_at":"2026-09-11T18:55:43Z"},{"id":557820116,"node_id":"RA_kwDOSIatD84hP6jU","name":"Reasonix-windows-amd64.zip.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":283,"digest":"sha256:05092da2752689f6f7c0a16298825e39789e08d8d5eda126e41470e991c4c4d0","download_count":4,"created_at":"2026-09-11T18:56:08Z","updated_at":"2026-09-11T18:56:08Z"},{"id":557820627,"node_id":"RA_kwDOSIatD84hP6rT","name":"Reasonix-windows-arm64-installer.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":212927416,"digest":"sha256:cdcfd12ed110580c3acac831ac88bbb4f7dda0ebc1133ad47a416b50fe6f63b4","download_count":3,"created_at":"2026-09-11T18:56:24Z","updated_at":"2026-09-11T18:56:30Z"},{"id":557820866,"node_id":"RA_kwDOSIatD84hP6vC","name":"Reasonix-windows-arm64-installer.exe.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":293,"digest":"sha256:bf7462d5b77f5e4698dbd9e8a72e5eda7c0b0c6ee647f8469f4b9fd19fbc1785","download_count":4,"created_at":"2026-09-11T18:56:33Z","updated_at":"2026-09-11T18:56:34Z"},{"id":557819832,"node_id":"RA_kwDOSIatD84hP6e4","name":"Reasonix-windows-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":233104570,"digest":"sha256:e14ab720042c952127980d121c12004d3526596ecec6b3a5322bf67bf121144b","download_count":3,"created_at":"2026-09-11T18:55:54Z","updated_at":"2026-09-11T18:56:01Z"},{"id":557821355,"node_id":"RA_kwDOSIatD84hP62r","name":"Reasonix-windows-arm64.zip.minisig","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":283,"digest":"sha256:37edd3d4ec7f064c196d2aa442dd7fbfc748cc380a49fa03dd88a27e7d3e0e73","download_count":4,"created_at":"2026-09-11T18:56:53Z","updated_at":"2026-09-11T18:56:54Z"}],"body":"> \u684c\u9762\u7aef\u53ef\u9760\u6027\u4e0e\u6613\u7528\u6027\u6539\u8fdb\uff0c\u5305\u62ec Windows \u542f\u52a8\u4fee\u590d\u3001\u6d4f\u89c8\u5668\u63a7\u5236\u4ee5\u53ca\u804a\u5929\u8bb0\u5f55\u5e03\u5c40\u4fee\u6b63\u3002\n\n**\u53d1\u5e03\u6e20\u9053\uff1a\u7a33\u5b9a\u7248 \u00b7 v1.38.7**\n\n[English \u2192](https://reasonix.io/changelog/v1.38.7/?lang=en) \u00b7 [\u7f51\u9875\u7248\u5b8c\u6574\u66f4\u65b0\u65e5\u5fd7 \u2192](https://reasonix.io/changelog/v1.38.7/)\n\n## \u4f7f\u7528\u653b\u7565\n\n- [**Windows \u5e94\u7528\u8eab\u4efd**](https://github.com/esengine/DeepSeek-Reasonix/blob/0c35021eb330f38cadde7831a8bb561d5988a970/docs/WINDOWS_APP_IDENTITY.md) \u2014 Reasonix \u684c\u9762\u7aef\u5982\u4f55\u9694\u79bb\u5176 Windows \u4efb\u52a1\u680f\u8eab\u4efd\u4e0e Studio\uff0c\u5e76\u7ba1\u7406\u5feb\u6377\u65b9\u5f0f\u3002\n- [**Windows \u542f\u52a8\u6062\u590d**](https://github.com/esengine/DeepSeek-Reasonix/blob/0c35021eb330f38cadde7831a8bb561d5988a970/docs/WINDOWS_STARTUP_RECOVERY.md) \u2014 Windows \u4e0a\u4ece\u5931\u6548\u684c\u9762\u58f3\u6062\u590d\u7684\u8bbe\u8ba1\u4e0e\u9a8c\u6536\u6807\u51c6\u3002\n- [**\u684c\u9762\u6d4f\u89c8\u5668**](https://github.com/esengine/DeepSeek-Reasonix/blob/0c35021eb330f38cadde7831a8bb561d5988a970/docs/DESKTOP_BROWSER.md) \u2014 \u5185\u7f6e\u6d4f\u89c8\u5668\u63a7\u5236\u8bbe\u7f6e\u4e0e Chrome \u767b\u5f55\u72b6\u6001\u5bfc\u5165\u3002\n- [**\u804a\u5929\u8bb0\u5f55\u6295\u5f71**](https://github.com/esengine/DeepSeek-Reasonix/blob/0c35021eb330f38cadde7831a8bb561d5988a970/docs/TRANSCRIPT_PROJECTION.md) \u2014 \u804a\u5929\u8bb0\u5f55\u7684\u5386\u53f2\u5feb\u7167\u4e0e\u5b9e\u65f6\u4e8b\u4ef6\u7edf\u4e00\u6295\u5f71\u3002\n- [**\u68c0\u67e5\u70b9**](https://github.com/esengine/DeepSeek-Reasonix/blob/0c35021eb330f38cadde7831a8bb561d5988a970/docs/CHECKPOINTS.md) \u2014 \u53ef\u914d\u7f6e\u7684\u56de\u6eaf\u5feb\u7167\u4fdd\u7559\u7b56\u7565\u3002\n\n## \u6982\u89c8\n\n**Reasonix v1.38.7 \u2014 Reasonix 1.38.7**\n\n\u684c\u9762\u7aef\u53ef\u9760\u6027\u4e0e\u6613\u7528\u6027\u6539\u8fdb\uff0c\u5305\u62ec Windows \u542f\u52a8\u4fee\u590d\u3001\u6d4f\u89c8\u5668\u63a7\u5236\u4ee5\u53ca\u804a\u5929\u8bb0\u5f55\u5e03\u5c40\u4fee\u6b63\u3002\n\n\u53d1\u5e03\u65e5\u671f\uff1a2026-09-11\n\n**Desktop 17 \u00b7 CLI 3**\n\n## \u684c\u9762\u7aef\u66f4\u65b0\n\n### \u91cd\u70b9\u5185\u5bb9\n\n- **[Desktop]** **\u5185\u7f6e\u6d4f\u89c8\u5668\u63a7\u5236\u8bbe\u7f6e** \u2014 \u8bbe\u7f6e\u4e2d\u5fc3\u65b0\u589e\u201c\u6d4f\u89c8\u5668\u63a7\u5236\u201d\u9875\u9762\uff0c\u53ef\u542f\u7528\u5185\u7f6e\u6d4f\u89c8\u5668\u3001\u5bfc\u5165 Chrome \u767b\u5f55\u72b6\u6001\u3001\u7ba1\u7406\u8bc1\u4e66\u9a8c\u8bc1\u5e76\u6e05\u9664\u6d4f\u89c8\u5668\u6570\u636e\u3002 ([#10080](https://github.com/esengine/DeepSeek-Reasonix/pull/10080))\n- **[Desktop]** **Windows \u542f\u52a8\u4e0e\u7a97\u53e3\u53ef\u9760\u6027** \u2014 \u4fee\u590d\u5931\u6548\u58f3\u6062\u590d\u3001\u4efb\u52a1\u680f\u8eab\u4efd\u9694\u79bb\u3001\u542f\u52a8\u9ed1\u6846\u95ea\u73b0\u4ee5\u53ca\u7a97\u53e3\u51e0\u4f55\u4fe1\u606f\u6301\u4e45\u5316\u95ee\u9898\u3002 ([#10115](https://github.com/esengine/DeepSeek-Reasonix/pull/10115), [#10130](https://github.com/esengine/DeepSeek-Reasonix/pull/10130), [#10111](https://github.com/esengine/DeepSeek-Reasonix/pull/10111), [#10128](https://github.com/esengine/DeepSeek-Reasonix/pull/10128))\n- **[Desktop]** **\u804a\u5929\u8bb0\u5f55\u5e03\u5c40\u4e0e\u547d\u4ee4\u53ef\u89c1\u6027** \u2014 \u957f\u5185\u5bb9\u4e0d\u518d\u6ea2\u51fa\u804a\u5929\u9762\u677f\uff0c\u5c55\u5f00\u7684\u7ec8\u7aef\u5de5\u5177\u5361\u663e\u793a\u5b8c\u6574\u547d\u4ee4\u3002 ([#10137](https://github.com/esengine/DeepSeek-Reasonix/pull/10137), [#6298](https://github.com/esengine/DeepSeek-Reasonix/pull/6298), [#9860](https://github.com/esengine/DeepSeek-Reasonix/pull/9860))\n\n### \u65b0\u589e\n\n- **[Desktop]** **\u5185\u7f6e\u6d4f\u89c8\u5668\u63a7\u5236\u8bbe\u7f6e** \u2014 \u8bbe\u7f6e\u4e2d\u5fc3\u65b0\u589e\u201c\u6d4f\u89c8\u5668\u63a7\u5236\u201d\u9875\u9762\uff0c\u53ef\u542f\u7528\u5185\u7f6e\u6d4f\u89c8\u5668\u3001\u5bfc\u5165 Chrome \u767b\u5f55\u72b6\u6001\u3001\u5ffd\u7565\u8bbf\u5ba2\u4f1a\u8bdd\u8bc1\u4e66\u9519\u8bef\uff0c\u4ee5\u53ca\u6e05\u9664\u6d4f\u89c8\u5668\u7f13\u5b58\u6216\u5168\u90e8\u6570\u636e\u3002 ([#10080](https://github.com/esengine/DeepSeek-Reasonix/pull/10080))\n- **[Desktop \u00b7 CLI]** **\u53ef\u914d\u7f6e\u7684\u68c0\u67e5\u70b9\u4fdd\u7559\u7b56\u7565** \u2014 \u65b0\u589e [checkpoints] \u914d\u7f6e\u9879 retain_turns \u4e0e blob_quota_bytes\uff0c\u7528\u4e8e\u63a7\u5236\u56de\u6eaf\u5feb\u7167\u4fdd\u7559\u3002 ([#9911](https://github.com/esengine/DeepSeek-Reasonix/pull/9911))\n\n### \u6539\u8fdb\n\n- **[Desktop]** **\u804a\u5929\u8bb0\u5f55\u6295\u5f71\u7edf\u4e00** \u2014 \u7edf\u4e00\u5386\u53f2\u5feb\u7167\u4e0e\u5b9e\u65f6\u4e8b\u4ef6\u6295\u5f71\uff0c\u907f\u514d\u5185\u5bb9\u91cd\u590d\u4e0e\u4e8b\u4ef6\u9057\u6f0f\uff0c\u5e76\u63d0\u5347\u68c0\u67e5\u70b9\u6027\u80fd\u3002 ([#9983](https://github.com/esengine/DeepSeek-Reasonix/pull/9983))\n- **[Desktop]** **\u4f1a\u8bdd\u5207\u6362\u6821\u9a8c** \u2014 \u4f1a\u8bdd\u5207\u6362\u5feb\u7167\u73b0\u4f1a\u4e0e\u63a7\u5236\u5668\u6355\u83b7\u7684\u5386\u53f2\u8fdb\u884c\u6821\u9a8c\uff0c\u5e76\u62a5\u544a\u52a0\u8f7d\u9636\u6bb5\u3002 ([#10120](https://github.com/esengine/DeepSeek-Reasonix/pull/10120))\n- **[Desktop]** **\u9650\u65f6\u6027\u80fd\u91c7\u6837** \u2014 \u6027\u80fd\u8bca\u65ad\u73b0\u91c7\u7528\u9650\u65f6\u91c7\u6837\u4e0e\u6309\u9700\u5206\u6790\uff0c\u65e0\u9700\u6301\u7eed CPU \u91c7\u6837\u5373\u53ef\u8bc6\u522b\u5361\u987f\u4e0e\u5185\u5b58\u589e\u957f\u3002 ([#10124](https://github.com/esengine/DeepSeek-Reasonix/pull/10124))\n- **[Desktop]** **\u80fd\u529b\u9636\u6bb5\u6307\u6807\u4fee\u590d** \u2014 \u4fee\u590d capability_phases \u8017\u65f6\u6876\u6052\u4e3a\u96f6\u7684\u95ee\u9898\uff0c\u8865\u9f50\u9636\u6bb5\u53d1\u51fa\u4e0e\u8ba1\u8d39\u3002 ([#9981](https://github.com/esengine/DeepSeek-Reasonix/pull/9981))\n\n### \u4fee\u590d\n\n- **[Desktop]** **Windows \u58f3\u751f\u547d\u5468\u671f\u6062\u590d** \u2014 \u4fee\u590d\u670d\u52a1\u63e1\u624b\u5931\u8d25\u540e\u5931\u6548\u58f3\u8fdb\u7a0b\u5360\u7528\u5355\u5b9e\u4f8b\u9501\u7684\u95ee\u9898\uff0c\u5f15\u5165\u663e\u5f0f\u6062\u590d\u72b6\u6001\u6a21\u578b\u3002 ([#10115](https://github.com/esengine/DeepSeek-Reasonix/pull/10115))\n- **[Desktop]** **Windows \u4efb\u52a1\u680f\u8eab\u4efd\u9694\u79bb** \u2014 \u684c\u9762\u7aef\u73b0\u4f7f\u7528 io.reasonix.desktop \u4f5c\u4e3a\u58f3\u3001\u542f\u52a8\u5668\u3001\u670d\u52a1\u3001\u5feb\u6377\u65b9\u5f0f\u4e0e\u901a\u77e5\u7684\u8eab\u4efd\uff0c\u907f\u514d\u4e0e Studio \u5f52\u7ec4\u3002 ([#10130](https://github.com/esengine/DeepSeek-Reasonix/pull/10130))\n- **[Desktop]** **Windows \u542f\u52a8\u9ed1\u6846\u95ea\u73b0** \u2014 \u4fee\u590d\u4ece\u5feb\u6377\u65b9\u5f0f\u542f\u52a8 Windows \u684c\u9762\u65f6\u77ed\u6682\u51fa\u73b0\u63a7\u5236\u53f0\u7a97\u53e3\u7684\u95ee\u9898\u3002 ([#10111](https://github.com/esengine/DeepSeek-Reasonix/pull/10111))\n- **[Desktop]** **\u7a97\u53e3\u51e0\u4f55\u4fe1\u606f\u6301\u4e45\u5316** \u2014 \u6301\u4e45\u5316\u8fd8\u539f\u77e9\u5f62\u800c\u975e\u6700\u5927\u5316\u8fb9\u6846\uff0c\u907f\u514d\u8fd8\u539f\u65f6\u51fa\u73b0\u8d85\u5927\u7a97\u53e3\u3002 ([#10128](https://github.com/esengine/DeepSeek-Reasonix/pull/10128))\n- **[Desktop]** **\u804a\u5929\u8bb0\u5f55\u6ea2\u51fa\u4e0e\u547d\u4ee4\u53ef\u89c1\u6027** \u2014 \u957f\u5185\u5bb9\u4e0d\u518d\u4f7f\u804a\u5929\u8bb0\u5f55\u8d85\u51fa\u804a\u5929\u9762\u677f\uff0c\u5c55\u5f00\u7684\u7ec8\u7aef\u5de5\u5177\u5361\u663e\u793a\u5b8c\u6574\u547d\u4ee4\u3002 ([#10137](https://github.com/esengine/DeepSeek-Reasonix/pull/10137), [#6298](https://github.com/esengine/DeepSeek-Reasonix/pull/6298), [#9860](https://github.com/esengine/DeepSeek-Reasonix/pull/9860))\n- **[Desktop]** **\u538b\u7f29\u56de\u6267\u53ef\u89c1\u6027** \u2014 /compact \u56de\u6267\u73b0\u6e32\u67d3\u5728\u8fdb\u7a0b\u6298\u53e0\u4e4b\u5916\uff0c\u7528\u6237\u53ef\u770b\u5230\u538b\u7f29\u7ed3\u679c\u3002 ([#10132](https://github.com/esengine/DeepSeek-Reasonix/pull/10132))\n- **[Desktop \u00b7 CLI]** **\u6a21\u578b\u8986\u76d6 max_output_tokens \u4fdd\u7559** \u2014 \u4fee\u590d\u5355\u72ec\u4f7f\u7528\u9010\u6a21\u578b max_output_tokens \u65f6\u88ab\u9759\u9ed8\u4e22\u5f03\u7684\u95ee\u9898\u3002 ([#10094](https://github.com/esengine/DeepSeek-Reasonix/pull/10094))\n- **[Desktop]** **DeepSeek Flash \u601d\u8003\u6df1\u5ea6** \u2014 \u4fee\u590d deepseek-flash \u522b\u540d\u7f3a\u5c11\u601d\u8003\u6df1\u5ea6\u63a7\u5236\u7684\u95ee\u9898\u3002 ([#10117](https://github.com/esengine/DeepSeek-Reasonix/pull/10117))\n\n## CLI \u7aef\u66f4\u65b0\n\n### \u65b0\u589e\n\n- **[Desktop \u00b7 CLI]** **\u53ef\u914d\u7f6e\u7684\u68c0\u67e5\u70b9\u4fdd\u7559\u7b56\u7565** \u2014 \u65b0\u589e [checkpoints] \u914d\u7f6e\u9879 retain_turns \u4e0e blob_quota_bytes\uff0c\u7528\u4e8e\u63a7\u5236\u56de\u6eaf\u5feb\u7167\u4fdd\u7559\u3002 ([#9911](https://github.com/esengine/DeepSeek-Reasonix/pull/9911))\n\n### \u4fee\u590d\n\n- **[CLI]** **WSL \u526a\u8d34\u677f UTF-8 \u4fdd\u7559** \u2014 \u4fee\u590d\u4ece WSL \u590d\u5236\u4e2d\u6587\u7b49 UTF-8 \u5185\u5bb9\u51fa\u73b0\u4e71\u7801\u7684\u95ee\u9898\uff0c\u6539\u7528 PowerShell UTF-8 \u6865\u63a5\u800c\u975e\u539f\u59cb clip.exe\u3002 ([#10074](https://github.com/esengine/DeepSeek-Reasonix/pull/10074))\n- **[Desktop \u00b7 CLI]** **\u6a21\u578b\u8986\u76d6 max_output_tokens \u4fdd\u7559** \u2014 \u4fee\u590d\u5355\u72ec\u4f7f\u7528\u9010\u6a21\u578b max_output_tokens \u65f6\u88ab\u9759\u9ed8\u4e22\u5f03\u7684\u95ee\u9898\u3002 ([#10094](https://github.com/esengine/DeepSeek-Reasonix/pull/10094))\n\n## \u5347\u7ea7\u63d0\u9192\n\n\u672c\u7248\u672c\u65e0\u9700\u624b\u52a8\u8fc1\u79fb\u3002\n\n## \u98ce\u9669\u63d0\u793a\n\n\u5f53\u524d\u6ca1\u6709\u9700\u8981\u989d\u5916\u64cd\u4f5c\u7684\u5df2\u77e5\u98ce\u9669\u3002\n\n## \u81f4\u8c22\n\n\u611f\u8c22\u672c\u7248\u672c\u7684\u8d21\u732e\u8005\uff1a[@SivanCola](https://github.com/SivanCola)\u3001[@boscocp](https://github.com/boscocp)\u3001[@SauronSkywalker](https://github.com/SauronSkywalker)\u3001[@Linearl](https://github.com/Linearl)\u3001[@lengxiaouser](https://github.com/lengxiaouser)\n\n## \u4e0b\u8f7d\u4e0e\u5b89\u88c5\n\n- [\u5b98\u7f51\u6309\u5e73\u53f0\u4e0b\u8f7d](https://reasonix.io/?download=desktop&channel=stable#start)\n- [\u67e5\u770b\u5b8c\u6574\u5dee\u5f02](https://github.com/esengine/DeepSeek-Reasonix/compare/desktop-v1.38.6...desktop-v1.38.7)\n"}

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4675,
       "digest": "sha256:4b6a9aba7213edc484d069d5f6f849fc845667e0c29cd9b7244769f87f4b4226",
-      "download_count": 11185,
+      "download_count": 36549,
       "created_at": "2026-09-20T18:30:19Z",
       "updated_at": "2026-09-20T18:30:19Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/latest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 185404699,
       "digest": "sha256:70e33decbe4322bae2bc78b16e6b2c4d84feebeb699677530f559d7498ee50fc",
-      "download_count": 15,
+      "download_count": 35,
       "created_at": "2026-09-20T18:30:10Z",
       "updated_at": "2026-09-20T18:30:17Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-darwin-amd64.dmg"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 282,
       "digest": "sha256:705cdad990de72af070d47ec4757641d98bd14a85de044e62d60c48dbf6aada8",
-      "download_count": 5,
+      "download_count": 9,
       "created_at": "2026-09-20T18:29:54Z",
       "updated_at": "2026-09-20T18:29:55Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-darwin-amd64.dmg.minisig"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 186035422,
       "digest": "sha256:d3f9574dce07ebb066d49a683419e21e968e40b9fa1087f14f8fd41ef5910a2b",
-      "download_count": 15,
+      "download_count": 28,
       "created_at": "2026-09-20T18:29:14Z",
       "updated_at": "2026-09-20T18:29:20Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-darwin-amd64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 282,
       "digest": "sha256:35161554d3dae8aa2a8539651efe5015a8ae9f4412d7ca094bf86efd84743692",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-09-20T18:30:08Z",
       "updated_at": "2026-09-20T18:30:08Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-darwin-amd64.zip.minisig"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 176706257,
       "digest": "sha256:d0f578a8ceb250b9fff0087742ded248c9e268815df60c3dabb3f8dd0d74b63c",
-      "download_count": 18,
+      "download_count": 47,
       "created_at": "2026-09-20T18:29:35Z",
       "updated_at": "2026-09-20T18:29:45Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-darwin-arm64.dmg"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 282,
       "digest": "sha256:d1c2f2ac39672c1da581f5230d9e229334d0fb49ac637acf753e7d5066df3046",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-20T18:29:46Z",
       "updated_at": "2026-09-20T18:29:46Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-darwin-arm64.dmg.minisig"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 177312098,
       "digest": "sha256:96d303fdb21cd4f0b25e2986509d9437af3ad22a20bdabc072c592b845c3a6b9",
-      "download_count": 20,
+      "download_count": 37,
       "created_at": "2026-09-20T18:29:55Z",
       "updated_at": "2026-09-20T18:30:02Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-darwin-arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 282,
       "digest": "sha256:57c8e2af7aa0c0ca851879d4185cdbab18850b6185220187f8c632c3d98b0957",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-09-20T18:29:03Z",
       "updated_at": "2026-09-20T18:29:03Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-darwin-arm64.zip.minisig"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 323068615,
       "digest": "sha256:e2b1755dd50f2c65d6650d477d444e37b7e357eb45406316fddef176311623cf",
-      "download_count": 11,
+      "download_count": 26,
       "created_at": "2026-09-20T18:30:21Z",
       "updated_at": "2026-09-20T18:30:31Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-darwin-universal.dmg"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 158333614,
       "digest": "sha256:b8b02e3dcfbff35bdbd19c2178e3d9e0b53bcf929c9f56065c65417bda8074c2",
-      "download_count": 17,
+      "download_count": 59,
       "created_at": "2026-09-20T18:29:48Z",
       "updated_at": "2026-09-20T18:29:54Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-linux-amd64.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 281,
       "digest": "sha256:3ab933b2994f1d44fc1fe8c70f97202c72c67a531a04c5ba2aafc7e68e783cc1",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-09-20T18:30:32Z",
       "updated_at": "2026-09-20T18:30:32Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-linux-amd64.deb.minisig"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 177417307,
       "digest": "sha256:f24d96d09adb19a633ac87c781dcadf67b84a70f8c4a675a9b669cf5eee983ff",
-      "download_count": 24,
+      "download_count": 33,
       "created_at": "2026-09-20T18:30:33Z",
       "updated_at": "2026-09-20T18:30:39Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-linux-amd64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 284,
       "digest": "sha256:da65627564bb254638be83e3e93b275d38d5a7859a19af4657dd257cbddd2cc2",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-20T18:30:18Z",
       "updated_at": "2026-09-20T18:30:18Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-linux-amd64.tar.gz.minisig"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 156505184,
       "digest": "sha256:3eb58dc4d242a54c4429d1ffe7d1e1ceb8f1fd3fc2686bf1f18f6d3f987ec3c0",
-      "download_count": 141,
+      "download_count": 422,
       "created_at": "2026-09-20T18:29:29Z",
       "updated_at": "2026-09-20T18:29:34Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-windows-amd64-installer.exe"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 293,
       "digest": "sha256:d3437b0cf570198aa60424e0f47f701d772ad0240f5d9264cc945da0455190b9",
-      "download_count": 22,
+      "download_count": 55,
       "created_at": "2026-09-20T18:30:09Z",
       "updated_at": "2026-09-20T18:30:09Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-windows-amd64-installer.exe.minisig"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 222961695,
       "digest": "sha256:a348a27e2c66356adb775f4779008961dfd2371a12f7dcbc9ed25a9d226a1f09",
-      "download_count": 70,
+      "download_count": 146,
       "created_at": "2026-09-20T18:29:04Z",
       "updated_at": "2026-09-20T18:29:13Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-windows-amd64.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 283,
       "digest": "sha256:8f590ed383e60d3bf1ed45bcc6717d475ed42bcf76a15ea79a4684afa48c4a2b",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-20T18:29:47Z",
       "updated_at": "2026-09-20T18:29:47Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-windows-amd64.zip.minisig"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 143800992,
       "digest": "sha256:9ac280155a3df44f180be08909b5e3e675c1ae890430aaa1530999890ed66919",
-      "download_count": 18,
+      "download_count": 44,
       "created_at": "2026-09-20T18:30:03Z",
       "updated_at": "2026-09-20T18:30:07Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-windows-arm64-installer.exe"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 215879204,
       "digest": "sha256:4ed97f9748d055d6a3b3ac1b5f28637649ea7027c918c31b498eaf7c235dd2c9",
-      "download_count": 10,
+      "download_count": 18,
       "created_at": "2026-09-20T18:29:21Z",
       "updated_at": "2026-09-20T18:29:28Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.38.11/Reasonix-windows-arm64.zip"

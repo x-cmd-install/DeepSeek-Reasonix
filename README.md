@@ -4,7 +4,7 @@
 
 DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 
-[![x-cmd/install — DeepSeek-Reasonix Code Quality Monitoring Repo Card](https://repo.x-cmd.io/DeepSeek-Reasonix.svg)](https://x-cmd.com/install/DeepSeek-Reasonix)
+[![x-cmd/install — DeepSeek-Reasonix Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/DeepSeek-Reasonix.svg)](https://x-cmd.com/install/DeepSeek-Reasonix)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install DeepSeek-Reasonix
 
 ## Code insight
 
-Total: **1,330,542** lines of code across **6367** files in the top 5 languages.
+Total: **1,387,730** lines of code across **6707** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 873,881 | 59,528 | 68,428 | 4602 |
-| TypeScript | 131,957 | 6,824 | 10,073 | 1111 |
-| Json | 122,502 | 0 | 2 | 100 |
-| Tsx | 103,649 | 3,422 | 6,789 | 508 |
+| Go | 892,015 | 60,202 | 69,344 | 4761 |
+| Json | 158,394 | 0 | 2 | 251 |
+| TypeScript | 133,228 | 6,863 | 10,143 | 1130 |
+| Tsx | 104,322 | 3,424 | 6,811 | 519 |
 | Css | 44,130 | 1,302 | 3,410 | 46 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **1,330,542** lines of code across **6367** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.38.11` (2026-09-20)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 35,668 · **Forks**: 2,415 · **Open issues**: 4,814 · **Contributors**: 187
+- **Stars**: 35,688 · **Forks**: 2,417 · **Open issues**: 4,826 · **Contributors**: 187
 
 ## Totals (cumulative)
 
-- **Releases**: 251 · **Merged PRs**: 3846 · **Open PRs**: 493 · **Closed issues**: 3431 · **Open issues**: 1383 · **Commits**: 7515
+- **Releases**: 251 · **Merged PRs**: 3852 · **Open PRs**: 497 · **Closed issues**: 3432 · **Open issues**: 1394 · **Commits**: 7521
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 49 | 455 | 132 | 297 | 302 | 0 |
-| last60d | 2026-07-24 | 100 | 1149 | 366 | 792 | 1035 | 0 |
-| 90d | 2026-06-24 | 100 | 1669 | 457 | 1295 | 1297 | 0 |
-| last180d | 2026-03-26 | 100 | 3846 | 493 | 3431 | 1383 | 0 |
-| 360d | 2025-09-27 | 100 | 3846 | 493 | 3431 | 1383 | 0 |
-| last720d | 2024-10-02 | 100 | 3846 | 493 | 3431 | 1383 | 7515 |
+| 30d | 2026-08-24 | 47 | 451 | 136 | 294 | 297 | 0 |
+| last60d | 2026-07-25 | 100 | 1149 | 368 | 787 | 1044 | 0 |
+| 90d | 2026-06-25 | 100 | 1657 | 459 | 1271 | 1300 | 0 |
+| last180d | 2026-03-27 | 100 | 3852 | 497 | 3432 | 1394 | 0 |
+| 360d | 2025-09-28 | 100 | 3852 | 497 | 3432 | 1394 | 0 |
+| last720d | 2024-10-03 | 100 | 3852 | 497 | 3432 | 1394 | 7521 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for DeepSeek-Reasonix lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:57:12Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:49:42Z._

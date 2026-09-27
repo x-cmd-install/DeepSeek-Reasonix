@@ -14,15 +14,15 @@ x install DeepSeek-Reasonix
 
 ## Code insight
 
-Total: **662,239** lines of code across **4574** files in the top 5 languages.
+Total: **674,322** lines of code across **4682** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 546,971 | 60,909 | 49,201 | 3387 |
-| TypeScript | 26,609 | 4,854 | 2,815 | 300 |
-| Tsx | 26,057 | 3,686 | 2,134 | 225 |
+| Go | 557,267 | 61,822 | 50,142 | 3483 |
+| Tsx | 27,198 | 3,770 | 2,254 | 231 |
+| TypeScript | 26,785 | 4,880 | 2,833 | 302 |
 | Python | 15,195 | 136 | 2,632 | 535 |
-| JavaScript | 12,383 | 2,162 | 1,092 | 127 |
+| JavaScript | 12,839 | 2,208 | 1,125 | 131 |
 
 ## Source
 
@@ -32,56 +32,56 @@ Total: **662,239** lines of code across **4574** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.39.0` (2026-09-24)
-- **Last commit**: 2026-09-26
+- **Latest**: `studio-v2.20.2` (2026-09-26)
+- **Last commit**: 2026-09-27
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 35,707 · **Forks**: 2,418 · **Open issues**: 4,865 · **Contributors**: 162
+- **Stars**: 35,719 · **Forks**: 2,421 · **Open issues**: 4,881 · **Contributors**: 164
 
 ## Totals (cumulative)
 
-- **Releases**: 257 · **Merged PRs**: 3975 · **Open PRs**: 17 · **Closed issues**: 3988 · **Open issues**: 877 · **Commits**: 6869
+- **Releases**: 261 · **Merged PRs**: 4104 · **Open PRs**: 10 · **Closed issues**: 4670 · **Open issues**: 211 · **Commits**: 7032
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 48 | 535 | 15 | 437 | 134 | 864 |
-| last60d | 2026-07-28 | 100 | 1246 | 17 | 1218 | 614 | 2638 |
-| 90d | 2026-06-28 | 100 | 1728 | 17 | 1741 | 780 | 3736 |
-| last180d | 2026-03-30 | 100 | 3975 | 17 | 3988 | 877 | 5477 |
-| 360d | 2025-10-01 | 100 | 3975 | 17 | 3988 | 877 | 5477 |
-| last720d | 2024-10-06 | 100 | 3975 | 17 | 3988 | 877 | 6869 |
+| 30d | 2026-08-28 | 51 | 633 | 10 | 482 | 74 | 730 |
+| last60d | 2026-07-29 | 100 | 1367 | 10 | 1665 | 167 | 2260 |
+| 90d | 2026-06-29 | 100 | 1849 | 10 | 2315 | 186 | 3502 |
+| last180d | 2026-03-31 | 100 | 4104 | 10 | 4670 | 211 | 5557 |
+| 360d | 2025-10-02 | 100 | 4104 | 10 | 4670 | 211 | 5557 |
+| last720d | 2024-10-07 | 100 | 4104 | 10 | 4670 | 211 | 7032 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [latest.json](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/latest.json) | 4.5 KiB | `other` |
-| [Reasonix-darwin-amd64.dmg](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-darwin-amd64.dmg) | 178.1 MiB | `native/darwin/x64` |
-| [Reasonix-darwin-amd64.dmg.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-darwin-amd64.dmg.minisig) | 282 B | `native/darwin/x64` |
-| [Reasonix-darwin-amd64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-darwin-amd64.zip) | 178.7 MiB | `native/darwin/x64` |
-| [Reasonix-darwin-amd64.zip.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-darwin-amd64.zip.minisig) | 282 B | `native/darwin/x64` |
-| [Reasonix-darwin-arm64.dmg](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-darwin-arm64.dmg) | 169.7 MiB | `native/darwin/arm64` |
-| [Reasonix-darwin-arm64.dmg.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-darwin-arm64.dmg.minisig) | 282 B | `native/darwin/arm64` |
-| [Reasonix-darwin-arm64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-darwin-arm64.zip) | 170.3 MiB | `native/darwin/arm64` |
-| [Reasonix-darwin-arm64.zip.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-darwin-arm64.zip.minisig) | 282 B | `native/darwin/arm64` |
-| [Reasonix-darwin-universal.dmg](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-darwin-universal.dmg) | 310.4 MiB | `native/darwin/x64` |
-| [Reasonix-darwin-universal.dmg.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-darwin-universal.dmg.minisig) | 286 B | `native/darwin/x64` |
-| [Reasonix-linux-amd64.deb](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-linux-amd64.deb) | 152.1 MiB | `native/linux/x64` |
-| [Reasonix-linux-amd64.deb.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-linux-amd64.deb.minisig) | 281 B | `native/linux/x64` |
-| [Reasonix-linux-amd64.tar.gz](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-linux-amd64.tar.gz) | 170.4 MiB | `native/linux/x64` |
-| [Reasonix-linux-amd64.tar.gz.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-linux-amd64.tar.gz.minisig) | 284 B | `native/linux/x64` |
-| [Reasonix-windows-amd64-installer.exe](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-windows-amd64-installer.exe) | 150.1 MiB | `native/win/x64` |
-| [Reasonix-windows-amd64-installer.exe.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-windows-amd64-installer.exe.minisig) | 293 B | `native/win/x64` |
-| [Reasonix-windows-amd64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-windows-amd64.zip) | 213.9 MiB | `native/win/x64` |
-| [Reasonix-windows-amd64.zip.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-windows-amd64.zip.minisig) | 283 B | `native/win/x64` |
-| [Reasonix-windows-arm64-installer.exe](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-windows-arm64-installer.exe) | 137.9 MiB | `native/win/arm64` |
-| [Reasonix-windows-arm64-installer.exe.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-windows-arm64-installer.exe.minisig) | 293 B | `native/win/arm64` |
-| [Reasonix-windows-arm64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-windows-arm64.zip) | 207.1 MiB | `native/win/arm64` |
-| [Reasonix-windows-arm64.zip.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.0/Reasonix-windows-arm64.zip.minisig) | 283 B | `native/win/arm64` |
+| [latest.json](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/latest.json) | 4.5 KiB | `other` |
+| [Reasonix-darwin-amd64.dmg](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-darwin-amd64.dmg) | 178.2 MiB | `native/darwin/x64` |
+| [Reasonix-darwin-amd64.dmg.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-darwin-amd64.dmg.minisig) | 282 B | `native/darwin/x64` |
+| [Reasonix-darwin-amd64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-darwin-amd64.zip) | 178.8 MiB | `native/darwin/x64` |
+| [Reasonix-darwin-amd64.zip.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-darwin-amd64.zip.minisig) | 282 B | `native/darwin/x64` |
+| [Reasonix-darwin-arm64.dmg](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-darwin-arm64.dmg) | 169.8 MiB | `native/darwin/arm64` |
+| [Reasonix-darwin-arm64.dmg.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-darwin-arm64.dmg.minisig) | 282 B | `native/darwin/arm64` |
+| [Reasonix-darwin-arm64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-darwin-arm64.zip) | 170.4 MiB | `native/darwin/arm64` |
+| [Reasonix-darwin-arm64.zip.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-darwin-arm64.zip.minisig) | 282 B | `native/darwin/arm64` |
+| [Reasonix-darwin-universal.dmg](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-darwin-universal.dmg) | 310.6 MiB | `native/darwin/x64` |
+| [Reasonix-darwin-universal.dmg.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-darwin-universal.dmg.minisig) | 286 B | `native/darwin/x64` |
+| [Reasonix-linux-amd64.deb](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-linux-amd64.deb) | 152.1 MiB | `native/linux/x64` |
+| [Reasonix-linux-amd64.deb.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-linux-amd64.deb.minisig) | 281 B | `native/linux/x64` |
+| [Reasonix-linux-amd64.tar.gz](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-linux-amd64.tar.gz) | 170.5 MiB | `native/linux/x64` |
+| [Reasonix-linux-amd64.tar.gz.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-linux-amd64.tar.gz.minisig) | 284 B | `native/linux/x64` |
+| [Reasonix-windows-amd64-installer.exe](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-windows-amd64-installer.exe) | 150.2 MiB | `native/win/x64` |
+| [Reasonix-windows-amd64-installer.exe.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-windows-amd64-installer.exe.minisig) | 293 B | `native/win/x64` |
+| [Reasonix-windows-amd64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-windows-amd64.zip) | 214.0 MiB | `native/win/x64` |
+| [Reasonix-windows-amd64.zip.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-windows-amd64.zip.minisig) | 283 B | `native/win/x64` |
+| [Reasonix-windows-arm64-installer.exe](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-windows-arm64-installer.exe) | 138.0 MiB | `native/win/arm64` |
+| [Reasonix-windows-arm64-installer.exe.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-windows-arm64-installer.exe.minisig) | 293 B | `native/win/arm64` |
+| [Reasonix-windows-arm64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-windows-arm64.zip) | 207.2 MiB | `native/win/arm64` |
+| [Reasonix-windows-arm64.zip.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.39.1/Reasonix-windows-arm64.zip.minisig) | 283 B | `native/win/arm64` |
 
 ## Improve this data
 
@@ -92,4 +92,4 @@ Install metadata for DeepSeek-Reasonix lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:36:04Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:59:21Z._

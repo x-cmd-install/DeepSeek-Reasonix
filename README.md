@@ -14,15 +14,15 @@ x install DeepSeek-Reasonix
 
 ## Code insight
 
-Total: **946,859** lines of code across **7348** files in the top 5 languages.
+Total: **966,981** lines of code across **7589** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 751,180 | 73,848 | 65,579 | 5263 |
-| Tsx | 77,962 | 4,534 | 6,682 | 726 |
-| TypeScript | 43,532 | 6,230 | 4,651 | 545 |
-| JavaScript | 22,062 | 2,639 | 1,804 | 227 |
-| Python | 15,549 | 137 | 2,703 | 587 |
+| Go | 766,144 | 75,063 | 66,824 | 5426 |
+| Tsx | 80,929 | 4,643 | 6,973 | 777 |
+| TypeScript | 44,898 | 6,365 | 4,775 | 561 |
+| JavaScript | 22,726 | 2,665 | 1,842 | 237 |
+| Python | 15,637 | 138 | 2,714 | 588 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **946,859** lines of code across **7348** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.42.0` (2026-10-16)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-17
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 35,813 · **Forks**: 2,454 · **Open issues**: 5,657 · **Contributors**: 181
+- **Stars**: 35,820 · **Forks**: 2,456 · **Open issues**: 5,697 · **Contributors**: 183
 
 ## Totals (cumulative)
 
-- **Releases**: 314 · **Merged PRs**: 5608 · **Open PRs**: 10 · **Closed issues**: 5350 · **Open issues**: 307 · **Commits**: 10229
+- **Releases**: 314 · **Merged PRs**: 5721 · **Open PRs**: 23 · **Closed issues**: 5368 · **Open issues**: 329 · **Commits**: 10521
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 70 | 1816 | 10 | 676 | 259 | 2796 |
-| last60d | 2026-08-17 | 100 | 2265 | 10 | 1326 | 270 | 3707 |
-| 90d | 2026-07-18 | 100 | 2996 | 10 | 2505 | 287 | 6003 |
-| last180d | 2026-04-19 | 100 | 5608 | 10 | 5350 | 307 | 9516 |
-| 360d | 2025-10-21 | 100 | 5608 | 10 | 5350 | 307 | 9516 |
-| last720d | 2024-10-26 | 100 | 5608 | 10 | 5350 | 307 | 10229 |
+| 30d | 2026-09-17 | 69 | 1903 | 23 | 678 | 281 | 3077 |
+| last60d | 2026-08-18 | 100 | 2360 | 23 | 1316 | 293 | 3988 |
+| 90d | 2026-07-19 | 100 | 3089 | 23 | 2506 | 310 | 6284 |
+| last180d | 2026-04-20 | 100 | 5721 | 23 | 5368 | 329 | 9797 |
+| 360d | 2025-10-22 | 100 | 5721 | 23 | 5368 | 329 | 9797 |
+| last720d | 2024-10-27 | 100 | 5721 | 23 | 5368 | 329 | 10521 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for DeepSeek-Reasonix lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:10:44Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:03:18Z._

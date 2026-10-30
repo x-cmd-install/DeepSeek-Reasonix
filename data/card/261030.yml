@@ -1,0 +1,241 @@
+about:
+  description: "A reliable coding agent for complex software engineering tasks."
+  license: MIT
+  homepage: http://reasonix.io/
+  head: c7a36b4
+  archived: false
+  latestVersion: "studio-v2.56.0"
+  latestRelease: "studio-v2.56.0"
+  latestPrerelease: "studio-v2.28.0"
+  collectedAt: 2026-10-30T06:31:32Z
+timeline:
+  created: 2026-04-21
+  lastCommit: 2026-10-30
+  lastVersion: 2026-10-30
+  lastRelease: 2026-10-30
+  lastPrerelease: 2026-10-05
+popularity:
+  star: 35998
+  watcher: 93
+  fork: 2494
+  release: 349
+  contributor: 192
+  pullRequest: 8188
+  issue: 6173
+language:
+  Go: 37317226
+  TypeScript: 8867132
+  JavaScript: 1827736
+  HTML: 1278135
+  CSS: 680812
+  Python: 563919
+  Shell: 230420
+  Kotlin: 192550
+  PowerShell: 40634
+  Batchfile: 19666
+  NSIS: 8439
+  Makefile: 6966
+totalBytes: 51033635
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 76
+    mergedPR: 1981
+    openPR: 40
+    closedIssue: 685
+    openIssue: 494
+    commit: 4032
+  last60d:
+    since: 2026-08-31
+    release: 100
+    mergedPR: 2933
+    openPR: 41
+    closedIssue: 1273
+    openIssue: 520
+    commit: 5477
+  last90d:
+    since: 2026-08-01
+    release: 100
+    mergedPR: 3664
+    openPR: 41
+    closedIssue: 2530
+    openIssue: 532
+    commit: 7730
+  last180d:
+    since: 2026-05-03
+    release: 100
+    mergedPR: 6330
+    openPR: 41
+    closedIssue: 5583
+    openIssue: 550
+    commit: 11736
+  last360d:
+    since: 2025-11-04
+    release: 100
+    mergedPR: 6477
+    openPR: 41
+    closedIssue: 5623
+    openIssue: 550
+    commit: 11736
+  last720d:
+    since: 2024-11-09
+    release: 100
+    mergedPR: 6477
+    openPR: 41
+    closedIssue: 5623
+    openIssue: 550
+    commit: 12571
+total:
+  release: 349
+  mergedPR: 6477
+  openPR: 41
+  closedIssue: 5623
+  openIssue: 550
+  commit: 12571
+---
+path: /home/runner/.x-repo/github.com/esengine/DeepSeek-Reasonix
+collectedAt: 2026-10-30T06:32:07Z
+loc:
+  Go:
+    code: 916084
+    comments: 86225
+    blanks: 78720
+    files: 6916
+  Tsx:
+    code: 100832
+    comments: 5094
+    blanks: 8709
+    files: 1020
+  TypeScript:
+    code: 54429
+    comments: 7063
+    blanks: 5692
+    files: 710
+  JavaScript:
+    code: 31590
+    comments: 3095
+    blanks: 2352
+    files: 325
+  Python:
+    code: 16344
+    comments: 140
+    blanks: 2847
+    files: 592
+  Json:
+    code: 12436
+    comments: 0
+    blanks: 1
+    files: 78
+  Css:
+    code: 11227
+    comments: 110
+    blanks: 750
+    files: 73
+  Yaml:
+    code: 8061
+    comments: 66
+    blanks: 2232
+    files: 7
+  Sh:
+    code: 5257
+    comments: 893
+    blanks: 624
+    files: 195
+  Xml:
+    code: 3145
+    comments: 135
+    blanks: 25
+    files: 14
+  Kotlin:
+    code: 2299
+    comments: 1663
+    blanks: 294
+    files: 10
+  Toml:
+    code: 991
+    comments: 326
+    blanks: 80
+    files: 157
+  PowerShell:
+    code: 787
+    comments: 68
+    blanks: 96
+    files: 8
+  Svg:
+    code: 767
+    comments: 20
+    blanks: 35
+    files: 40
+  Sql:
+    code: 638
+    comments: 103
+    blanks: 59
+    files: 16
+  Html:
+    code: 521
+    comments: 1
+    blanks: 5
+    files: 16
+  Batch:
+    code: 452
+    comments: 1
+    blanks: 53
+    files: 2
+  Makefile:
+    code: 122
+    comments: 35
+    blanks: 48
+    files: 6
+  Swift:
+    code: 94
+    comments: 10
+    blanks: 5
+    files: 1
+  C:
+    code: 37
+    comments: 0
+    blanks: 1
+    files: 1
+  Prolog:
+    code: 28
+    comments: 0
+    blanks: 4
+    files: 1
+  Jsx:
+    code: 22
+    comments: 0
+    blanks: 2
+    files: 1
+  Bash:
+    code: 20
+    comments: 6
+    blanks: 5
+    files: 1
+  Rust:
+    code: 6
+    comments: 0
+    blanks: 1
+    files: 1
+  Bitbake:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 30596
+    blanks: 7634
+    files: 415
+  Text:
+    code: 0
+    comments: 3342
+    blanks: 414
+    files: 37
+total:
+  code: 1168273
+  comments: 139280
+  blanks: 110808
+  files: 10644
+---
+
+---

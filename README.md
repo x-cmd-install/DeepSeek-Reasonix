@@ -38,22 +38,22 @@ Total: **1,111,787** lines of code across **9366** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 36,071 · **Forks**: 2,503 · **Open issues**: 6,259 · **Contributors**: 193
+- **Stars**: 36,082 · **Forks**: 2,503 · **Open issues**: 6,266 · **Contributors**: 193
 
 ## Totals (cumulative)
 
-- **Releases**: 355 · **Merged PRs**: 6531 · **Open PRs**: 35 · **Closed issues**: 5647 · **Open issues**: 612 · **Commits**: 12890
+- **Releases**: 355 · **Merged PRs**: 6531 · **Open PRs**: 33 · **Closed issues**: 5647 · **Open issues**: 619 · **Commits**: 12890
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 73 | 1635 | 34 | 542 | 513 | 3546 |
-| last60d | 2026-09-05 | 100 | 2942 | 35 | 1225 | 582 | 5597 |
-| 90d | 2026-08-06 | 100 | 3521 | 35 | 2290 | 591 | 6910 |
-| last180d | 2026-05-08 | 100 | 6216 | 35 | 5515 | 612 | 12051 |
-| 360d | 2025-11-09 | 100 | 6530 | 35 | 5647 | 612 | 12051 |
-| last720d | 2024-11-14 | 100 | 6530 | 35 | 5647 | 612 | 12890 |
+| 30d | 2026-10-06 | 71 | 1567 | 32 | 519 | 511 | 3546 |
+| last60d | 2026-09-06 | 100 | 2931 | 33 | 1203 | 589 | 5597 |
+| 90d | 2026-08-07 | 100 | 3478 | 33 | 2241 | 598 | 6910 |
+| last180d | 2026-05-09 | 100 | 6170 | 33 | 5487 | 619 | 12051 |
+| 360d | 2025-11-10 | 100 | 6530 | 33 | 5647 | 619 | 12051 |
+| last720d | 2024-11-15 | 100 | 6530 | 33 | 5647 | 619 | 12890 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for DeepSeek-Reasonix lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:08:43Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:35:20Z._

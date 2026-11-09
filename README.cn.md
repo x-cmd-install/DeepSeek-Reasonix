@@ -14,14 +14,14 @@ x install DeepSeek-Reasonix
 
 ## 代码洞察
 
-合计: **1,117,098** 行代码（覆盖前 5 种语言、共 **9498** 个文件）。
+合计: **1,117,648** 行代码（覆盖前 5 种语言、共 **9506** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 847,664 | 78,744 | 72,988 | 6619 |
-| Tsx | 108,408 | 5,129 | 9,423 | 1151 |
-| TypeScript | 62,491 | 7,127 | 6,051 | 798 |
-| JavaScript | 32,949 | 3,258 | 2,448 | 338 |
+| Go | 847,733 | 78,746 | 72,993 | 6619 |
+| Tsx | 108,339 | 5,112 | 9,419 | 1151 |
+| TypeScript | 62,449 | 7,125 | 6,076 | 798 |
+| JavaScript | 33,533 | 3,252 | 2,456 | 346 |
 | Python | 16,344 | 140 | 2,847 | 592 |
 
 ## 源代码
@@ -32,70 +32,70 @@ x install DeepSeek-Reasonix
 
 ## 发布
 
-- **最新版本**: `v2.58.0` (2026-11-07)
-- **最近提交**: 2026-11-08
+- **最新版本**: `v2.58.1` (2026-11-09)
+- **最近提交**: 2026-11-09
 - **Release 含资产**: 37 个
 
 ## 流行度
 
-- **Star**: 36,132 · **Fork**: 2,506 · **开放 issue**: 6,304 · **贡献者**: 192
+- **Star**: 36,141 · **Fork**: 2,507 · **开放 issue**: 6,333 · **贡献者**: 192
 
 ## 累计统计
 
-- **发布数**: 357 · **已合并 PR**: 6529 · **开放 PR**: 31 · **已关闭 issue**: 5657 · **开放 issue**: 647 · **提交数**: 13238
+- **发布数**: 359 · **已合并 PR**: 6536 · **开放 PR**: 33 · **已关闭 issue**: 5664 · **开放 issue**: 669 · **提交数**: 13257
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 63 | 1415 | 30 | 439 | 514 | 3058 |
-| last60d | 2026-09-09 | 100 | 2843 | 31 | 1150 | 616 | 5951 |
-| 90d | 2026-08-10 | 100 | 3329 | 31 | 2110 | 624 | 6902 |
-| last180d | 2026-05-12 | 100 | 6066 | 31 | 5439 | 647 | 12597 |
-| 360d | 2025-11-13 | 100 | 6528 | 31 | 5657 | 647 | 12597 |
-| last720d | 2024-11-18 | 100 | 6528 | 31 | 5657 | 647 | 13238 |
+| 30d | 2026-10-10 | 63 | 1369 | 32 | 419 | 531 | 3077 |
+| last60d | 2026-09-10 | 100 | 2832 | 33 | 1136 | 637 | 5970 |
+| 90d | 2026-08-11 | 100 | 3301 | 33 | 2011 | 645 | 6921 |
+| last180d | 2026-05-13 | 100 | 6023 | 33 | 5419 | 669 | 12616 |
+| 360d | 2025-11-14 | 100 | 6535 | 33 | 5664 | 669 | 12616 |
+| last720d | 2024-11-19 | 100 | 6535 | 33 | 5664 | 669 | 13257 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [reasonix-darwin-amd64.tar.gz](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/reasonix-darwin-amd64.tar.gz) | 38.2 MiB | `native/darwin/x64` |
-| [reasonix-darwin-arm64.tar.gz](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/reasonix-darwin-arm64.tar.gz) | 37.0 MiB | `native/darwin/arm64` |
-| [reasonix-linux-amd64.tar.gz](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/reasonix-linux-amd64.tar.gz) | 38.2 MiB | `native/linux/x64` |
-| [reasonix-linux-arm64.tar.gz](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/reasonix-linux-arm64.tar.gz) | 36.6 MiB | `native/linux/arm64` |
-| [reasonix-windows-amd64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/reasonix-windows-amd64.zip) | 39.8 MiB | `native/win/x64` |
-| [reasonix-windows-arm64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/reasonix-windows-arm64.zip) | 37.9 MiB | `native/win/arm64` |
-| [ReasonixMobile-v2.58.0.apk](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixMobile-v2.58.0.apk) | 38.8 MiB | `other` |
-| [ReasonixMobile-v2.58.0.apk.sha256](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixMobile-v2.58.0.apk.sha256) | 93 B | `other` |
-| [ReasonixStudio-darwin-amd64.dmg](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-darwin-amd64.dmg) | 196.8 MiB | `native/darwin/x64` |
-| [ReasonixStudio-darwin-amd64.dmg.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-darwin-amd64.dmg.minisig) | 288 B | `native/darwin/x64` |
-| [ReasonixStudio-darwin-amd64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-darwin-amd64.zip) | 190.5 MiB | `native/darwin/x64` |
-| [ReasonixStudio-darwin-amd64.zip.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-darwin-amd64.zip.minisig) | 288 B | `native/darwin/x64` |
-| [ReasonixStudio-darwin-arm64.dmg](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-darwin-arm64.dmg) | 189.9 MiB | `native/darwin/arm64` |
-| [ReasonixStudio-darwin-arm64.dmg.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-darwin-arm64.dmg.minisig) | 288 B | `native/darwin/arm64` |
-| [ReasonixStudio-darwin-arm64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-darwin-arm64.zip) | 183.6 MiB | `native/darwin/arm64` |
-| [ReasonixStudio-darwin-arm64.zip.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-darwin-arm64.zip.minisig) | 288 B | `native/darwin/arm64` |
-| [ReasonixStudio-linux-amd64.AppImage](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-linux-amd64.AppImage) | 171.4 MiB | `native/linux/x64` |
-| [ReasonixStudio-linux-amd64.AppImage.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-linux-amd64.AppImage.minisig) | 292 B | `native/linux/x64` |
-| [ReasonixStudio-linux-amd64.deb](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-linux-amd64.deb) | 145.7 MiB | `native/linux/x64` |
-| [ReasonixStudio-linux-amd64.deb.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-linux-amd64.deb.minisig) | 287 B | `native/linux/x64` |
-| [ReasonixStudio-linux-amd64.rpm](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-linux-amd64.rpm) | 132.0 MiB | `native/linux/x64` |
-| [ReasonixStudio-linux-amd64.rpm.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-linux-amd64.rpm.minisig) | 287 B | `native/linux/x64` |
-| [ReasonixStudio-linux-arm64.AppImage](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-linux-arm64.AppImage) | 171.4 MiB | `native/linux/arm64` |
-| [ReasonixStudio-linux-arm64.AppImage.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-linux-arm64.AppImage.minisig) | 292 B | `native/linux/arm64` |
-| [ReasonixStudio-linux-arm64.deb](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-linux-arm64.deb) | 137.6 MiB | `native/linux/arm64` |
-| [ReasonixStudio-linux-arm64.deb.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-linux-arm64.deb.minisig) | 287 B | `native/linux/arm64` |
-| [ReasonixStudio-linux-arm64.rpm](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-linux-arm64.rpm) | 124.1 MiB | `native/linux/arm64` |
-| [ReasonixStudio-linux-arm64.rpm.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-linux-arm64.rpm.minisig) | 287 B | `native/linux/arm64` |
-| [ReasonixStudio-windows-amd64-installer.exe](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-windows-amd64-installer.exe) | 135.2 MiB | `native/win/x64` |
-| [ReasonixStudio-windows-amd64-installer.exe.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-windows-amd64-installer.exe.minisig) | 299 B | `native/win/x64` |
-| [ReasonixStudio-windows-amd64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-windows-amd64.zip) | 182.7 MiB | `native/win/x64` |
-| [ReasonixStudio-windows-amd64.zip.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-windows-amd64.zip.minisig) | 289 B | `native/win/x64` |
-| [ReasonixStudio-windows-arm64-installer.exe](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-windows-arm64-installer.exe) | 128.6 MiB | `native/win/arm64` |
-| [ReasonixStudio-windows-arm64-installer.exe.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-windows-arm64-installer.exe.minisig) | 299 B | `native/win/arm64` |
-| [ReasonixStudio-windows-arm64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-windows-arm64.zip) | 178.1 MiB | `native/win/arm64` |
-| [ReasonixStudio-windows-arm64.zip.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/ReasonixStudio-windows-arm64.zip.minisig) | 289 B | `native/win/arm64` |
-| [SHA256SUMS](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.0/SHA256SUMS) | 564 B | `other` |
+| [reasonix-darwin-amd64.tar.gz](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/reasonix-darwin-amd64.tar.gz) | 38.2 MiB | `native/darwin/x64` |
+| [reasonix-darwin-arm64.tar.gz](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/reasonix-darwin-arm64.tar.gz) | 36.9 MiB | `native/darwin/arm64` |
+| [reasonix-linux-amd64.tar.gz](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/reasonix-linux-amd64.tar.gz) | 38.2 MiB | `native/linux/x64` |
+| [reasonix-linux-arm64.tar.gz](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/reasonix-linux-arm64.tar.gz) | 36.6 MiB | `native/linux/arm64` |
+| [reasonix-windows-amd64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/reasonix-windows-amd64.zip) | 39.8 MiB | `native/win/x64` |
+| [reasonix-windows-arm64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/reasonix-windows-arm64.zip) | 37.8 MiB | `native/win/arm64` |
+| [ReasonixMobile-v2.58.1.apk](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixMobile-v2.58.1.apk) | 38.8 MiB | `other` |
+| [ReasonixMobile-v2.58.1.apk.sha256](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixMobile-v2.58.1.apk.sha256) | 93 B | `other` |
+| [ReasonixStudio-darwin-amd64.dmg](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-darwin-amd64.dmg) | 196.8 MiB | `native/darwin/x64` |
+| [ReasonixStudio-darwin-amd64.dmg.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-darwin-amd64.dmg.minisig) | 288 B | `native/darwin/x64` |
+| [ReasonixStudio-darwin-amd64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-darwin-amd64.zip) | 190.6 MiB | `native/darwin/x64` |
+| [ReasonixStudio-darwin-amd64.zip.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-darwin-amd64.zip.minisig) | 288 B | `native/darwin/x64` |
+| [ReasonixStudio-darwin-arm64.dmg](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-darwin-arm64.dmg) | 190.1 MiB | `native/darwin/arm64` |
+| [ReasonixStudio-darwin-arm64.dmg.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-darwin-arm64.dmg.minisig) | 288 B | `native/darwin/arm64` |
+| [ReasonixStudio-darwin-arm64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-darwin-arm64.zip) | 183.9 MiB | `native/darwin/arm64` |
+| [ReasonixStudio-darwin-arm64.zip.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-darwin-arm64.zip.minisig) | 288 B | `native/darwin/arm64` |
+| [ReasonixStudio-linux-amd64.AppImage](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-linux-amd64.AppImage) | 171.5 MiB | `native/linux/x64` |
+| [ReasonixStudio-linux-amd64.AppImage.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-linux-amd64.AppImage.minisig) | 292 B | `native/linux/x64` |
+| [ReasonixStudio-linux-amd64.deb](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-linux-amd64.deb) | 145.8 MiB | `native/linux/x64` |
+| [ReasonixStudio-linux-amd64.deb.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-linux-amd64.deb.minisig) | 287 B | `native/linux/x64` |
+| [ReasonixStudio-linux-amd64.rpm](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-linux-amd64.rpm) | 132.1 MiB | `native/linux/x64` |
+| [ReasonixStudio-linux-amd64.rpm.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-linux-amd64.rpm.minisig) | 287 B | `native/linux/x64` |
+| [ReasonixStudio-linux-arm64.AppImage](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-linux-arm64.AppImage) | 171.5 MiB | `native/linux/arm64` |
+| [ReasonixStudio-linux-arm64.AppImage.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-linux-arm64.AppImage.minisig) | 292 B | `native/linux/arm64` |
+| [ReasonixStudio-linux-arm64.deb](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-linux-arm64.deb) | 137.7 MiB | `native/linux/arm64` |
+| [ReasonixStudio-linux-arm64.deb.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-linux-arm64.deb.minisig) | 287 B | `native/linux/arm64` |
+| [ReasonixStudio-linux-arm64.rpm](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-linux-arm64.rpm) | 124.2 MiB | `native/linux/arm64` |
+| [ReasonixStudio-linux-arm64.rpm.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-linux-arm64.rpm.minisig) | 287 B | `native/linux/arm64` |
+| [ReasonixStudio-windows-amd64-installer.exe](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-windows-amd64-installer.exe) | 135.3 MiB | `native/win/x64` |
+| [ReasonixStudio-windows-amd64-installer.exe.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-windows-amd64-installer.exe.minisig) | 299 B | `native/win/x64` |
+| [ReasonixStudio-windows-amd64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-windows-amd64.zip) | 182.6 MiB | `native/win/x64` |
+| [ReasonixStudio-windows-amd64.zip.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-windows-amd64.zip.minisig) | 289 B | `native/win/x64` |
+| [ReasonixStudio-windows-arm64-installer.exe](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-windows-arm64-installer.exe) | 128.8 MiB | `native/win/arm64` |
+| [ReasonixStudio-windows-arm64-installer.exe.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-windows-arm64-installer.exe.minisig) | 299 B | `native/win/arm64` |
+| [ReasonixStudio-windows-arm64.zip](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-windows-arm64.zip) | 178.3 MiB | `native/win/arm64` |
+| [ReasonixStudio-windows-arm64.zip.minisig](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/ReasonixStudio-windows-arm64.zip.minisig) | 289 B | `native/win/arm64` |
+| [SHA256SUMS](https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.58.1/SHA256SUMS) | 564 B | `other` |
 
 ## 改进这些数据
 
@@ -106,4 +106,4 @@ DeepSeek-Reasonix 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T06:43:13Z._
+_数据快照: `data/card/261109.yml` · 2026-11-09T07:20:16Z._

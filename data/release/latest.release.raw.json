@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 40019078,
       "digest": "sha256:c9e02f554b5e1dd7363265e1a831438d90c78f27746ab0ce05586d401fe79886",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-11-11T02:09:10Z",
       "updated_at": "2026-11-11T02:09:12Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/reasonix-darwin-amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 38762391,
       "digest": "sha256:9fe53baf6a5ca91cb897ba138d0a873b7d62b39506f21eefb78c86fe8bb2f75f",
-      "download_count": 10,
+      "download_count": 22,
       "created_at": "2026-11-11T02:09:11Z",
       "updated_at": "2026-11-11T02:09:13Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/reasonix-darwin-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 40052994,
       "digest": "sha256:5aba59a15b8a0654d990739c3219014f033ae97584105fd93007eecaa3b03a69",
-      "download_count": 12,
+      "download_count": 45,
       "created_at": "2026-11-11T02:09:12Z",
       "updated_at": "2026-11-11T02:09:14Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/reasonix-linux-amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 38369787,
       "digest": "sha256:d391f19c1241abff677fea65e93bf8079f3e2313b184e574f586dbcfdae5c100",
-      "download_count": 2,
+      "download_count": 10,
       "created_at": "2026-11-11T02:09:13Z",
       "updated_at": "2026-11-11T02:09:14Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/reasonix-linux-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 41735534,
       "digest": "sha256:fd83ce58a08bba181719cf6b79f41ed4889c5b98fdefd9d63fe4bafa9cf979b8",
-      "download_count": 6,
+      "download_count": 40,
       "created_at": "2026-11-11T02:09:14Z",
       "updated_at": "2026-11-11T02:09:16Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/reasonix-windows-amd64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 39698037,
       "digest": "sha256:cd56d27176925f124600649868ea442e2b572dbdc6f87c3a36142e28045dada3",
-      "download_count": 2,
+      "download_count": 13,
       "created_at": "2026-11-11T02:09:14Z",
       "updated_at": "2026-11-11T02:09:16Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/reasonix-windows-arm64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 206436208,
       "digest": "sha256:84d56ddf8736699fd1e632fcc7dacf06baa8bd50e5d9994cfa4ac3bed673ef39",
-      "download_count": 5,
+      "download_count": 12,
       "created_at": "2026-11-11T02:08:52Z",
       "updated_at": "2026-11-11T02:09:03Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-darwin-amd64.dmg"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 288,
       "digest": "sha256:d6ddc495e8eb5557bdc3b4cdb56ff6e9127a5f08d8421e1fbf0b9b81a0eb751c",
-      "download_count": 4,
+      "download_count": 10,
       "created_at": "2026-11-11T02:08:52Z",
       "updated_at": "2026-11-11T02:08:52Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-darwin-amd64.dmg.minisig"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 199845978,
       "digest": "sha256:3131a6595367c512397b7bc0d5ffb2cc23d953651d81934fe612e7a92454d6fa",
-      "download_count": 4,
+      "download_count": 10,
       "created_at": "2026-11-11T02:08:52Z",
       "updated_at": "2026-11-11T02:09:02Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-darwin-amd64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 288,
       "digest": "sha256:a191b272bf3902d30add88b2b7635de219f4ef0b420a3cb6ee2711b1d7b7070f",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-11-11T02:08:52Z",
       "updated_at": "2026-11-11T02:08:52Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-darwin-amd64.zip.minisig"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 199429348,
       "digest": "sha256:e9032d016c12332f0f26c73ea8eb1433cdbb656910abf7d514158be174a773f1",
-      "download_count": 4,
+      "download_count": 19,
       "created_at": "2026-11-11T02:08:52Z",
       "updated_at": "2026-11-11T02:09:02Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-darwin-arm64.dmg"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 288,
       "digest": "sha256:9f546b7a7043c8e594c1b668984ef7f72bedb7d0cab7a5ae1b2e72c2a3b7b213",
-      "download_count": 2,
+      "download_count": 9,
       "created_at": "2026-11-11T02:08:52Z",
       "updated_at": "2026-11-11T02:08:52Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-darwin-arm64.dmg.minisig"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 192810918,
       "digest": "sha256:502fc46492b05bf009ff0e8da6d7b821360b367fb247c87888d3f22c48c4a118",
-      "download_count": 3,
+      "download_count": 12,
       "created_at": "2026-11-11T02:08:52Z",
       "updated_at": "2026-11-11T02:08:59Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-darwin-arm64.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 288,
       "digest": "sha256:430a8c61d13a3ceb0569d2fffd0fa617d8ef88eaad3338ae29c0008f322ece52",
-      "download_count": 2,
+      "download_count": 9,
       "created_at": "2026-11-11T02:08:53Z",
       "updated_at": "2026-11-11T02:08:53Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-darwin-arm64.zip.minisig"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 179869343,
       "digest": "sha256:2f5fc61fa6e60b70ef4b7da962a0ae145424d13416879f4631afead31cf073dc",
-      "download_count": 2,
+      "download_count": 17,
       "created_at": "2026-11-11T02:08:53Z",
       "updated_at": "2026-11-11T02:09:01Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-linux-amd64.AppImage"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 292,
       "digest": "sha256:dc5f3a209073534c0d62cce1404dcbf70da01dfea057e6847c2663e7cb29b72e",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-11-11T02:08:59Z",
       "updated_at": "2026-11-11T02:09:00Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-linux-amd64.AppImage.minisig"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 152891892,
       "digest": "sha256:efc995f7a93abed21723d223704d31a2e6a1abca914b9065d53facf84a7d0e5e",
-      "download_count": 10,
+      "download_count": 58,
       "created_at": "2026-11-11T02:09:00Z",
       "updated_at": "2026-11-11T02:09:05Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-linux-amd64.deb"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 287,
       "digest": "sha256:43f59cb813b553496b60d27388f986b74ff4ae6aa3fb370c575d084b0589917d",
-      "download_count": 3,
+      "download_count": 10,
       "created_at": "2026-11-11T02:09:01Z",
       "updated_at": "2026-11-11T02:09:01Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-linux-amd64.deb.minisig"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 138543761,
       "digest": "sha256:7ed7ba20bed978b2738ed611cba5e710a87d748903f71a05cb7bafe29df9186b",
-      "download_count": 5,
+      "download_count": 16,
       "created_at": "2026-11-11T02:09:01Z",
       "updated_at": "2026-11-11T02:09:07Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-linux-amd64.rpm"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 287,
       "digest": "sha256:8af2080b748d4bc0e7b198cee17196dd3469c87d934e342508be96df68e7f550",
-      "download_count": 2,
+      "download_count": 8,
       "created_at": "2026-11-11T02:09:02Z",
       "updated_at": "2026-11-11T02:09:02Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-linux-amd64.rpm.minisig"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 179812774,
       "digest": "sha256:8ee232402ba26ab5aa7ff999f4421b2d5e37f7ece3950d56b5c3d89e8dbc3c8a",
-      "download_count": 2,
+      "download_count": 8,
       "created_at": "2026-11-11T02:09:02Z",
       "updated_at": "2026-11-11T02:09:08Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-linux-arm64.AppImage"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 292,
       "digest": "sha256:6192b5422af28b9f88023883fbffaa26e973b3701264b4081aef85f9e924c105",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-11-11T02:09:02Z",
       "updated_at": "2026-11-11T02:09:03Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-linux-arm64.AppImage.minisig"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 144363852,
       "digest": "sha256:e67fe0db208f19137bfb321bd8cb5997f27947bddcfc055a53321e839e45d82c",
-      "download_count": 2,
+      "download_count": 10,
       "created_at": "2026-11-11T02:09:03Z",
       "updated_at": "2026-11-11T02:09:08Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-linux-arm64.deb"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 287,
       "digest": "sha256:f5ad7b72107e1f57bd54e526f0d2ce1b1b7a00951ab0146c73c1a055f4368d18",
-      "download_count": 2,
+      "download_count": 9,
       "created_at": "2026-11-11T02:09:03Z",
       "updated_at": "2026-11-11T02:09:04Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-linux-arm64.deb.minisig"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 130292989,
       "digest": "sha256:09e12802bf1acc0c44e43190fe1c9979d252a52dc46f2b5eefe247fe2e082897",
-      "download_count": 2,
+      "download_count": 8,
       "created_at": "2026-11-11T02:09:04Z",
       "updated_at": "2026-11-11T02:09:09Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-linux-arm64.rpm"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 287,
       "digest": "sha256:27e28a3f4270be33a5a032aa19be891e8943ce8f282923543891a4d9d2fbc56b",
-      "download_count": 2,
+      "download_count": 8,
       "created_at": "2026-11-11T02:09:06Z",
       "updated_at": "2026-11-11T02:09:06Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-linux-arm64.rpm.minisig"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 141833592,
       "digest": "sha256:c44a1b9ea5c3f688df817dd6909e2772d9d31dd6d8e17acfe52e3663b50200c8",
-      "download_count": 21,
+      "download_count": 97,
       "created_at": "2026-11-11T02:09:06Z",
       "updated_at": "2026-11-11T02:09:11Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-windows-amd64-installer.exe"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 299,
       "digest": "sha256:c2f0084a33a57b3bcf7920e734dd94067970199815073accc92bc1f1271b4fe4",
-      "download_count": 3,
+      "download_count": 13,
       "created_at": "2026-11-11T02:09:07Z",
       "updated_at": "2026-11-11T02:09:07Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-windows-amd64-installer.exe.minisig"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 191489665,
       "digest": "sha256:87a530d2e5a17b2c814441775d7403e6974e92d33a19cb94af651b6dd15cd9db",
-      "download_count": 8,
+      "download_count": 56,
       "created_at": "2026-11-11T02:09:08Z",
       "updated_at": "2026-11-11T02:09:14Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-windows-amd64.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 289,
       "digest": "sha256:97f4271d2a4541325bf6d366a3d38ab6fef4ca4bc00925527cf95dbe9dc4ea53",
-      "download_count": 2,
+      "download_count": 8,
       "created_at": "2026-11-11T02:09:08Z",
       "updated_at": "2026-11-11T02:09:08Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-windows-amd64.zip.minisig"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 135030088,
       "digest": "sha256:f7400d61e862436c737af5f99672b66f78baf9aa287c81e07f2f5c839e65c46a",
-      "download_count": 2,
+      "download_count": 13,
       "created_at": "2026-11-11T02:09:09Z",
       "updated_at": "2026-11-11T02:09:14Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-windows-arm64-installer.exe"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 299,
       "digest": "sha256:d58f9ce934398f669c3da6311a0ead4a82b1f80cbd6c3f66e216713ab22f28b4",
-      "download_count": 2,
+      "download_count": 8,
       "created_at": "2026-11-11T02:09:09Z",
       "updated_at": "2026-11-11T02:09:09Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-windows-arm64-installer.exe.minisig"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 186983871,
       "digest": "sha256:912a00156bfc9f0c3e410e7fc52830276dce3cc6dbebea6d6b08946d40dfe065",
-      "download_count": 2,
+      "download_count": 9,
       "created_at": "2026-11-11T02:09:09Z",
       "updated_at": "2026-11-11T02:09:16Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-windows-arm64.zip"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 289,
       "digest": "sha256:d2e4a9a600b490de756a1680f5d998e25a97ae0b0ce57a5f8d579fb71b331ba4",
-      "download_count": 2,
+      "download_count": 9,
       "created_at": "2026-11-11T02:09:09Z",
       "updated_at": "2026-11-11T02:09:09Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/ReasonixStudio-windows-arm64.zip.minisig"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 564,
       "digest": "sha256:b121c4804b9d5aee5c0fa5362dc9f3fa87f476c6203a736f92c96d10ce69a27e",
-      "download_count": 6,
+      "download_count": 36,
       "created_at": "2026-11-11T02:09:10Z",
       "updated_at": "2026-11-11T02:09:10Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.60.0/SHA256SUMS"

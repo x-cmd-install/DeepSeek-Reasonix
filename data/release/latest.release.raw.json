@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 40008655,
       "digest": "sha256:8320aefaceb2685102fb0fff532661e9ea5f6acfffe005db778fc617598f68f1",
-      "download_count": 188,
+      "download_count": 204,
       "created_at": "2026-11-12T08:27:59Z",
       "updated_at": "2026-11-12T08:28:03Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/reasonix-darwin-amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 38758291,
       "digest": "sha256:7318b46b28c2a05d53ea06b5f3346aa7ee86428e6ee76024ea728f1a47714d0d",
-      "download_count": 717,
+      "download_count": 746,
       "created_at": "2026-11-12T08:28:00Z",
       "updated_at": "2026-11-12T08:28:04Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/reasonix-darwin-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 40042380,
       "digest": "sha256:ceb15ec2f5509325a9f2f314b28758286a88492064a40f12d1ced1440f45fa0b",
-      "download_count": 277,
+      "download_count": 298,
       "created_at": "2026-11-12T08:28:04Z",
       "updated_at": "2026-11-12T08:28:07Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/reasonix-linux-amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 38372422,
       "digest": "sha256:08ce828507427f3f0e475e2b0bf5e71944e30e49b197fc8bd2ab8dc25983f174",
-      "download_count": 130,
+      "download_count": 133,
       "created_at": "2026-11-12T08:28:04Z",
       "updated_at": "2026-11-12T08:28:07Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/reasonix-linux-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 41737728,
       "digest": "sha256:50062ac360a5d2351f0568b700cab90eda6d57b2329c43809e37c5bbb02284ac",
-      "download_count": 1029,
+      "download_count": 1090,
       "created_at": "2026-11-12T08:28:07Z",
       "updated_at": "2026-11-12T08:28:10Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/reasonix-windows-amd64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 39699415,
       "digest": "sha256:ea9966ea0beb3bf03b806898b650cfb649239b828819545eeafa006aef48977b",
-      "download_count": 214,
+      "download_count": 225,
       "created_at": "2026-11-12T08:28:07Z",
       "updated_at": "2026-11-12T08:28:09Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/reasonix-windows-arm64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 206469418,
       "digest": "sha256:de5eb8f330b1884e9a5e559605193ae3f107eb45cd256245fd071609f84e13ec",
-      "download_count": 309,
+      "download_count": 329,
       "created_at": "2026-11-12T08:27:26Z",
       "updated_at": "2026-11-12T08:27:43Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/ReasonixStudio-darwin-amd64.dmg"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 199846158,
       "digest": "sha256:c7f7a53c2c3be1a94e9271bcef7d6612c9d21122b116952b618b09d0dde77cfd",
-      "download_count": 169,
+      "download_count": 181,
       "created_at": "2026-11-12T08:27:26Z",
       "updated_at": "2026-11-12T08:27:43Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/ReasonixStudio-darwin-amd64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 199443812,
       "digest": "sha256:9553e883d09db6a2b88477c18465d78f6db4b2550d121680fc8e25e641b459c6",
-      "download_count": 429,
+      "download_count": 456,
       "created_at": "2026-11-12T08:27:26Z",
       "updated_at": "2026-11-12T08:27:45Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/ReasonixStudio-darwin-arm64.dmg"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 288,
       "digest": "sha256:7f33c529eb3225fad23613b02d509c926bfd276cde15e4d635cd6c76fd18f7be",
-      "download_count": 28,
+      "download_count": 29,
       "created_at": "2026-11-12T08:27:27Z",
       "updated_at": "2026-11-12T08:27:27Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/ReasonixStudio-darwin-arm64.dmg.minisig"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 192811137,
       "digest": "sha256:95a37aefc553bddbd92c35216727bdceed0218d8a56e028350216641317c101f",
-      "download_count": 129,
+      "download_count": 137,
       "created_at": "2026-11-12T08:27:27Z",
       "updated_at": "2026-11-12T08:27:43Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/ReasonixStudio-darwin-arm64.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 179860953,
       "digest": "sha256:3d359f73ac8f5bfee015256bf82a79d653084e8d6f9343af904f9e0dfb16ea04",
-      "download_count": 100,
+      "download_count": 105,
       "created_at": "2026-11-12T08:27:28Z",
       "updated_at": "2026-11-12T08:27:43Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/ReasonixStudio-linux-amd64.AppImage"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 292,
       "digest": "sha256:fa3e77ef006bdfdff6708641809227215906a74f95c150e50a0d24d21e96f53b",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-11-12T08:27:43Z",
       "updated_at": "2026-11-12T08:27:43Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/ReasonixStudio-linux-amd64.AppImage.minisig"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 152882888,
       "digest": "sha256:c8ee9d27725df44a476f20e2bb407f0d5f2ebf836ea3b25b2257200c64ec2d19",
-      "download_count": 364,
+      "download_count": 377,
       "created_at": "2026-11-12T08:27:43Z",
       "updated_at": "2026-11-12T08:27:56Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/ReasonixStudio-linux-amd64.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 138535309,
       "digest": "sha256:95ce536147d2ed6ae999f1b1deee3ad8c50563776b141db92958f9ad1f83f8ae",
-      "download_count": 72,
+      "download_count": 73,
       "created_at": "2026-11-12T08:27:44Z",
       "updated_at": "2026-11-12T08:27:53Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/ReasonixStudio-linux-amd64.rpm"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 144457284,
       "digest": "sha256:19587c6e3147c2b499fc98e9a1025dbc502f0bb896500ce6f9d9ab564ea9959a",
-      "download_count": 136,
+      "download_count": 139,
       "created_at": "2026-11-12T08:27:45Z",
       "updated_at": "2026-11-12T08:27:57Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/ReasonixStudio-linux-arm64.deb"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 141801976,
       "digest": "sha256:6a1909f16875843d58984b196b993bdd2bc7d7c2852ab1d4f85df4d4d68c6e08",
-      "download_count": 3052,
+      "download_count": 3210,
       "created_at": "2026-11-12T08:27:54Z",
       "updated_at": "2026-11-12T08:27:59Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/ReasonixStudio-windows-amd64-installer.exe"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 299,
       "digest": "sha256:eae85f0c3483879c1032bf5f84dfb5df1cdea58fa4289493be42faf20d10bacb",
-      "download_count": 119,
+      "download_count": 120,
       "created_at": "2026-11-12T08:27:56Z",
       "updated_at": "2026-11-12T08:27:56Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/ReasonixStudio-windows-amd64-installer.exe.minisig"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 191490713,
       "digest": "sha256:ebaeb225a7a5f6d730e61b1acd5d7165f3ae72acadedb93377a343d590e78e76",
-      "download_count": 622,
+      "download_count": 696,
       "created_at": "2026-11-12T08:27:56Z",
       "updated_at": "2026-11-12T08:28:07Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/ReasonixStudio-windows-amd64.zip"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 135028216,
       "digest": "sha256:8fad6ffbe4438a93c5ae33d772e3afc9c3d015ed140e44fe026e48ba661cbe47",
-      "download_count": 409,
+      "download_count": 431,
       "created_at": "2026-11-12T08:27:57Z",
       "updated_at": "2026-11-12T08:28:06Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/ReasonixStudio-windows-arm64-installer.exe"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 186981161,
       "digest": "sha256:cbc2d33113d85ab7919585d494968bffce794aad306c1375d9650f7bc0c5eddc",
-      "download_count": 106,
+      "download_count": 109,
       "created_at": "2026-11-12T08:27:58Z",
       "updated_at": "2026-11-12T08:28:11Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/ReasonixStudio-windows-arm64.zip"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 564,
       "digest": "sha256:e0dad0dab4f07272b7ede68e6a832fa3c58bb3659c0438a9ccd332f7e999698a",
-      "download_count": 652,
+      "download_count": 683,
       "created_at": "2026-11-12T08:27:59Z",
       "updated_at": "2026-11-12T08:27:59Z",
       "browser_download_url": "https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.61.0/SHA256SUMS"
@@ -1302,8 +1302,8 @@
   "body": "本版是最后一个版本：移除软件内的反馈建议、崩溃报告上传和匿名统计，并修复文件树、提交历史等一批问题。\n\n## 新增\n\n- 工作台的文件树可以拖动边缘调整宽度，宽度会被记住，双击边缘恢复默认 (376376843)\n- 新增「进程」按钮，点开列出本会话正在运行的后台任务和子智能体 (3807e411d)\n- 新增设置「允许模型直接打开工作区内的文件夹」，默认关闭；打开后模型把本工作区内的文件夹加入项目时不再弹批准卡 #15090\n\n## 修复\n\n- 公式不再被裁掉上标的顶部 #15092\n- 没有伪控制台的 Windows 上，终端会说明原因，而不是报\"shell 启动失败\" #15091\n- 在 Cygwin 或 MSYS 终端里运行时，会提示界面无法在这里运行以及该怎么办 #15091\n- Windows 上安装前端依赖（pnpm install）不再失败 #15067\n- 操作被拒绝时的原因不再被输入框盖住 (f4b815ecd)\n- 读取内核失败时，窗口会说明内核无法连接以及是哪一次读取，而不是只显示\"Failed to fetch\" #15070\n- 窄栏里「更改」标题行的按钮换行显示，不再挤成竖排并出现横向滚动条 (a717dcd34)\n- 提交历史会在新提交出现、分支变化时自动刷新 (803583e4a)\n- 选了资源管理器后，右边不再留着已经打开的启动菜单 (0a17f7774)\n- 归档长会话时不再逐个规范化其他会话的路径，归档明显更快 (5cd38fde8)\n- Homebrew 安装不再因为 cask 无法读取而失败 #15071\n- 构建改用 Go 1.26.11，修复标准库 net/http 的已知漏洞 GO-2026-6859 (75f560400)\n\n## 移除\n\n- 移除软件内的反馈与建议入口、崩溃报告上传和匿名统计；项目不再维护 (21ffa334b)\n\n## 升级须知\n\n- 本版之后项目不再维护。软件不会再向维护者发送任何报告或统计，`reasonix report send` 会被拒绝；更新检查和扩展市场仍会访问原有服务，服务停止后将不可用 (21ffa334b)\n\n---\n\n<!-- lang:en -->\n\nThis is the last release: it removes the in-app feedback, crash report upload and anonymous statistics, and fixes a batch of issues in the file tree, commit history and more.\n\n## New\n\n- The workbench file tree can be resized by dragging its edge; the width is remembered and a double click restores the default (376376843)\n- A new Processes button opens a list of this session's running background jobs and sub-agents (3807e411d)\n- A new setting, \"Let the model open folders inside the workspace directly\", is off by default; when on, the model adds folders inside this workspace to the project without an approval card #15090\n\n## Fixed\n\n- A display formula no longer loses the top of a raised exponent #15092\n- On a Windows without a pseudoconsole, the terminal says so instead of reporting that the shell failed to start #15091\n- Run from a Cygwin or MSYS terminal, it says the UI cannot run there and what to do instead #15091\n- Installing the frontend dependencies (pnpm install) on Windows no longer fails #15067\n- The reason an action was refused is no longer painted over by the composer (f4b815ecd)\n- When the kernel cannot be reached, the window says so and names the read, instead of showing only \"Failed to fetch\" #15070\n- In a narrow explorer the Changes header wraps its buttons instead of squeezing into a vertical stack with a horizontal scrollbar (a717dcd34)\n- The commit history refreshes when a commit appears or the branch changes (803583e4a)\n- Choosing the explorer no longer leaves the start menu beside the tree it just opened (0a17f7774)\n- Archiving a long session no longer canonicalizes every other session's path, so it is noticeably faster (5cd38fde8)\n- Homebrew installs no longer fail because the cask cannot be read #15071\n- Builds now use Go 1.26.11, which fixes the known net/http vulnerability GO-2026-6859 (75f560400)\n\n## Removed\n\n- The in-app feedback and suggestion entry, crash report upload and anonymous statistics are removed; the project is no longer maintained (21ffa334b)\n\n## Upgrade notes\n\n- The project is no longer maintained after this release. The app sends no report or statistic to the maintainers, and `reasonix report send` is refused; update checks and the extension market still use the existing services and will stop working once those are shut down (21ffa334b)\n\n**Full Changelog**: https://github.com/esengine/DeepSeek-Reasonix/compare/studio-v2.60.0...studio-v2.61.0\n\n\n---\n\n**macOS** 已用 Developer ID 签名并公证，打开时不需要清除隔离属性。**Windows** 的窗口、内核与安装器都经 Certum 代码签名证书做了 Authenticode 签名。**Linux** Debian 系从 `.deb` 安装，Fedora、RHEL、openSUSE 等从 `.rpm` 安装（`sudo dnf install ./ReasonixStudio-linux-amd64.rpm`）。x86_64 用文件名带 amd64 的包，aarch64（统信 UOS、麒麟等）用带 arm64 的包。也提供 `.AppImage`（只提供下载，不会自更新；需要 FUSE 2，或用 `--appimage-extract-and-run` 启动）。\n\n三个平台都能自更新：Linux 的 `.deb` 走自己的包（`.rpm` 的自更新尚未提供，请手动下载新包），Windows 运行下一个安装器，macOS 替换自身 bundle。\n",
   "reactions": {
     "url": "https://api.github.com/repos/esengine/DeepSeek-Reasonix/releases/442667886/reactions",
-    "total_count": 2,
-    "+1": 2,
+    "total_count": 3,
+    "+1": 3,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,

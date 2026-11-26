@@ -40,7 +40,7 @@ Total: **1,116,227** lines of code across **9577** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 36,076 · **Forks**: 2,616 · **Open issues**: 0 · **Contributors**: 191
+- **Stars**: 36,072 · **Forks**: 2,623 · **Open issues**: 0 · **Contributors**: 191
 
 ## Totals (cumulative)
 
@@ -50,12 +50,12 @@ Total: **1,116,227** lines of code across **9577** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 27 | 0 | 0 | 0 | 0 | 914 |
-| last60d | 2026-09-26 | 100 | 0 | 0 | 0 | 0 | 5213 |
-| 90d | 2026-08-27 | 100 | 0 | 0 | 0 | 0 | 6437 |
-| last180d | 2026-05-29 | 100 | 0 | 0 | 0 | 0 | 12439 |
-| 360d | 2025-11-30 | 100 | 0 | 0 | 0 | 0 | 12658 |
-| last720d | 2024-12-05 | 100 | 0 | 0 | 0 | 0 | 13306 |
+| 30d | 2026-10-27 | 25 | 0 | 0 | 0 | 0 | 914 |
+| last60d | 2026-09-27 | 100 | 0 | 0 | 0 | 0 | 5213 |
+| 90d | 2026-08-28 | 100 | 0 | 0 | 0 | 0 | 6437 |
+| last180d | 2026-05-30 | 100 | 0 | 0 | 0 | 0 | 12439 |
+| 360d | 2025-12-01 | 100 | 0 | 0 | 0 | 0 | 12658 |
+| last720d | 2024-12-06 | 100 | 0 | 0 | 0 | 0 | 13306 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for DeepSeek-Reasonix lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:57:38Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:44:29Z._
